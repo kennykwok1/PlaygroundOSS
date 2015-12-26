@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>258431E1-FDF7-477D-824A-D2C125835ECF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>gtest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C1AB4066829182A0126D4F1997AFE77CDF8AD971</key>
+		<string>https://github.com/mercykevin/PlaygroundOSS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Tests/iOS/xcode/gtest.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C1AB4066829182A0126D4F1997AFE77CDF8AD971</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mercykevin/PlaygroundOSS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C1AB4066829182A0126D4F1997AFE77CDF8AD971</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C1AB4066829182A0126D4F1997AFE77CDF8AD971</string>
+			<key>IDESourceControlWCCName</key>
+			<string>kevinKlab</string>
+		</dict>
+	</array>
+</dict>
+</plist>

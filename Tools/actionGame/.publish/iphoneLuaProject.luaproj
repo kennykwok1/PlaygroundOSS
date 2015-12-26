@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XmlLuaProjectDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Documents />
+  <DocumentGroups />
+  <DocumentFolders>
+    <XmlDocumentFolder>
+      <Documents>
+        <DocumentRef FileName=".\start.lua" />
+        <DocumentRef FileName=".\SWFPlayer.lua" />
+      </Documents>
+      <DocumentGroups />
+      <DocumentFolders />
+      <RelativePath>.\iphone\</RelativePath>
+    </XmlDocumentFolder>
+  </DocumentFolders>
+  <ProjectProperties>
+    <StartAction>StartExternalProgram</StartAction>
+    <CmdLineArgs>-i iphone/ -e iphone_external/</CmdLineArgs>
+    <RemotePort>22001</RemotePort>
+    <StartupFileName />
+    <WorkingDir>C:\Users\kenny\Desktop\actionGame\.publish</WorkingDir>
+    <UseRemoteMachine>true</UseRemoteMachine>
+    <RemoteMachineName>localhost</RemoteMachineName>
+    <BuildOutputDir />
+    <PreBuildEventCmdLine />
+    <PostBuildEventCmdLine />
+    <RunPostBuildEvent>Always</RunPostBuildEvent>
+  </ProjectProperties>
+</XmlLuaProjectDocument>

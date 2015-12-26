@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KLBImageEditor_Plugin id="d9d5eacf-eef9-405a-8e8d-a5a97ef32b9d">
+  <ProjectPropertyModel>
+    <Version>0.2.0</Version>
+    <ProjectFile>daodunbing0026.png.xml</ProjectFile>
+    <ProjectFileRelativeDir />
+    <SaveDate>2015-12-26T13:35:13</SaveDate>
+    <EditState>false</EditState>
+    <VisibleImage>false</VisibleImage>
+    <VisiblePolygon>false</VisiblePolygon>
+    <VisibleMask>false</VisibleMask>
+    <VisibleBoundBox>false</VisibleBoundBox>
+    <VisibleGrid>false</VisibleGrid>
+    <VisibleProperty>false</VisibleProperty>
+  </ProjectPropertyModel>
+  <ContainerPropertyModel />
+  <ImageModel>
+    <isAdditive>false</isAdditive>
+    <ImgFileSize>15269</ImgFileSize>
+    <ImgFileDate>2015/12/26 9:37:58</ImgFileDate>
+    <ImgPathName>daodunbing0026.png</ImgPathName>
+    <PriorityOffset>0</PriorityOffset>
+    <ImageType>Default</ImageType>
+    <ImageTypeParams />
+    <VerticesClockwise>true</VerticesClockwise>
+    <Center>
+      <X>0</X>
+      <Y>0</Y>
+    </Center>
+    <Width>88</Width>
+    <Height>77</Height>
+    <VertexPostProcessMode>0</VertexPostProcessMode>
+    <BoundingBox>
+      <Location>
+        <X>0</X>
+        <Y>0</Y>
+      </Location>
+      <Size>
+        <Width>88</Width>
+        <Height>77</Height>
+      </Size>
+      <X>0</X>
+      <Y>0</Y>
+      <Width>88</Width>
+      <Height>77</Height>
+    </BoundingBox>
+    <Vertices>
+      <PointF>
+        <X>0</X>
+        <Y>0</Y>
+      </PointF>
+      <PointF>
+        <X>88</X>
+        <Y>0</Y>
+      </PointF>
+      <PointF>
+        <X>88</X>
+        <Y>77</Y>
+      </PointF>
+      <PointF>
+        <X>0</X>
+        <Y>77</Y>
+      </PointF>
+    </Vertices>
+    <Indices>AAECAw==</Indices>
+    <ImgAlphaType>TYPE_ALPHA_8BIT</ImgAlphaType>
+    <MaskCompress>true</MaskCompress>
+    <MaskX>0</MaskX>
+    <MaskY>0</MaskY>
+    <MaskWidth>88</MaskWidth>
+    <MaskHeight>77</MaskHeight>
+    <Mask>GngB</Mask>
+  </ImageModel>
+</KLBImageEditor_Plugin>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KLBUIEditor_Plugin id="7c73da9f-6790-4697-9be6-8392bc5bf41f" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <DrawingAllNodesClickableRegion>true</DrawingAllNodesClickableRegion>
+  <DrawingFingerNode>true</DrawingFingerNode>
+  <DrawingGrid>true</DrawingGrid>
+  <DrawingNodeClipRegion>true</DrawingNodeClipRegion>
+  <DrawingNodeName>true</DrawingNodeName>
+  <FormBounds xmlns:d1p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+    <d1p1:height>552</d1p1:height>
+    <d1p1:width>833</d1p1:width>
+    <d1p1:x>313</d1p1:x>
+    <d1p1:y>19</d1p1:y>
+  </FormBounds>
+  <GridSize>10</GridSize>
+  <GuideForFourSplit>false</GuideForFourSplit>
+  <GuideForMargin>false</GuideForMargin>
+  <GuideForThreeSplit>false</GuideForThreeSplit>
+  <LayoutPpi>163</LayoutPpi>
+  <LayoutScale>1</LayoutScale>
+  <LayoutSize xmlns:d1p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+    <d1p1:height>320</d1p1:height>
+    <d1p1:width>480</d1p1:width>
+  </LayoutSize>
+  <RootNode>
+    <name>root</name>
+    <x>0</x>
+    <y>0</y>
+    <priority>0</priority>
+    <width>480</width>
+    <height>320</height>
+    <_x0040_Publishable>true</_x0040_Publishable>
+    <_x0040_CommonAssets xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d2p1:string i:nil="true" />
+    </_x0040_CommonAssets>
+  </RootNode>
+  <ServerApiGroup>[ServerAPI]</ServerApiGroup>
+  <WindowState>Normal</WindowState>
+</KLBUIEditor_Plugin>
