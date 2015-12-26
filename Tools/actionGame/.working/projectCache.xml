@@ -11,8 +11,15 @@
     <Entry>
       <id>7c73da9f-6790-4697-9be6-8392bc5bf41f</id>
       <resourcePath>StartScene.xml</resourcePath>
-      <resourceLastModified>2015-12-26T13:45:53.075+08:00</resourceLastModified>
-      <resourceFileSize>1511</resourceFileSize>
+      <resourceLastModified>2015-12-27T06:58:45.414+08:00</resourceLastModified>
+      <resourceFileSize>2591</resourceFileSize>
+      <extraXmlLastModified>2015-12-27T06:58:45.474+08:00</extraXmlLastModified>
+      <extraXmlFileSize>0</extraXmlFileSize>
+    </Entry>
+    <Entry>
+      <resourcePath>SWFPlayer.lua</resourcePath>
+      <resourceLastModified>0001-01-01T00:00:00</resourceLastModified>
+      <resourceFileSize>0</resourceFileSize>
       <extraXmlLastModified>0001-01-01T00:00:00</extraXmlLastModified>
       <extraXmlFileSize>0</extraXmlFileSize>
     </Entry>
@@ -1354,7 +1361,7 @@
       <resourcePath>newHeroTexture.xml</resourcePath>
       <resourceLastModified>2015-12-26T19:28:52.257+08:00</resourceLastModified>
       <resourceFileSize>33737</resourceFileSize>
-      <extraXmlLastModified>2015-12-26T19:28:52.336+08:00</extraXmlLastModified>
+      <extraXmlLastModified>0001-01-01T00:00:00</extraXmlLastModified>
       <extraXmlFileSize>0</extraXmlFileSize>
     </Entry>
     <Entry>
@@ -1363,6 +1370,46 @@
       <resourceFileSize>0</resourceFileSize>
       <extraXmlLastModified>0001-01-01T00:00:00</extraXmlLastModified>
       <extraXmlFileSize>0</extraXmlFileSize>
+    </Entry>
+    <Entry>
+      <id>8a428fac-6e9a-4211-be45-bee6890f7205</id>
+      <resourcePath>return_big.png</resourcePath>
+      <resourceLastModified>2015-12-19T23:56:52+08:00</resourceLastModified>
+      <resourceFileSize>28467</resourceFileSize>
+      <extraXmlLastModified>2015-12-26T20:54:52.045+08:00</extraXmlLastModified>
+      <extraXmlFileSize>2028</extraXmlFileSize>
+    </Entry>
+    <Entry>
+      <id>e7e1435b-839f-4b96-8f03-02d9558d7966</id>
+      <resourcePath>startGameBtn.png</resourcePath>
+      <resourceLastModified>2015-12-26T21:02:34.011+08:00</resourceLastModified>
+      <resourceFileSize>54630</resourceFileSize>
+      <extraXmlLastModified>2015-12-26T21:03:01.25+08:00</extraXmlLastModified>
+      <extraXmlFileSize>2038</extraXmlFileSize>
+    </Entry>
+    <Entry>
+      <id>fef90990-8222-4cd2-a337-bb31006cbb97</id>
+      <resourcePath>UITexture.xml</resourcePath>
+      <resourceLastModified>2015-12-27T07:03:39.761+08:00</resourceLastModified>
+      <resourceFileSize>2434</resourceFileSize>
+      <extraXmlLastModified>2015-12-27T07:03:39.832+08:00</extraXmlLastModified>
+      <extraXmlFileSize>0</extraXmlFileSize>
+    </Entry>
+    <Entry>
+      <id>edf63b1d-c7e9-4eee-ad60-7fb5328ae023</id>
+      <resourcePath>gameBG.png</resourcePath>
+      <resourceLastModified>2015-12-26T21:34:50.651+08:00</resourceLastModified>
+      <resourceFileSize>617592</resourceFileSize>
+      <extraXmlLastModified>2015-12-27T07:02:37.567+08:00</extraXmlLastModified>
+      <extraXmlFileSize>2041</extraXmlFileSize>
+    </Entry>
+    <Entry>
+      <id>03ac1534-0e6f-4c83-8a8c-3ad740805654</id>
+      <resourcePath>startGame.png</resourcePath>
+      <resourceLastModified>2015-12-26T21:14:11.649+08:00</resourceLastModified>
+      <resourceFileSize>461323</resourceFileSize>
+      <extraXmlLastModified>2015-12-26T21:22:15.019+08:00</extraXmlLastModified>
+      <extraXmlFileSize>2047</extraXmlFileSize>
     </Entry>
   </entries>
 </ResourceWrapperCache>

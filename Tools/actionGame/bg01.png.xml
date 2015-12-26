@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KLBImageEditor_Plugin id="ca0c5aa1-aed9-4390-8dfa-c09c51d57bb9">
+  <ProjectPropertyModel>
+    <Version>0.2.0</Version>
+    <ProjectFile>bg01.png.xml</ProjectFile>
+    <ProjectFileRelativeDir />
+    <SaveDate>2015-12-26T21:19:38</SaveDate>
+    <EditState>false</EditState>
+    <VisibleImage>false</VisibleImage>
+    <VisiblePolygon>false</VisiblePolygon>
+    <VisibleMask>false</VisibleMask>
+    <VisibleBoundBox>false</VisibleBoundBox>
+    <VisibleGrid>false</VisibleGrid>
+    <VisibleProperty>false</VisibleProperty>
+  </ProjectPropertyModel>
+  <ContainerPropertyModel />
+  <ImageModel>
+    <isAdditive>false</isAdditive>
+    <ImgFileSize>101433</ImgFileSize>
+    <ImgFileDate>2015/12/19 23:56:52</ImgFileDate>
+    <ImgPathName>bg01.png</ImgPathName>
+    <PriorityOffset>0</PriorityOffset>
+    <ImageType>Default</ImageType>
+    <ImageTypeParams />
+    <VerticesClockwise>true</VerticesClockwise>
+    <Center>
+      <X>0</X>
+      <Y>0</Y>
+    </Center>
+    <Width>320</Width>
+    <Height>576</Height>
+    <VertexPostProcessMode>0</VertexPostProcessMode>
+    <BoundingBox>
+      <Location>
+        <X>0</X>
+        <Y>0</Y>
+      </Location>
+      <Size>
+        <Width>320</Width>
+        <Height>576</Height>
+      </Size>
+      <X>0</X>
+      <Y>0</Y>
+      <Width>320</Width>
+      <Height>576</Height>
+    </BoundingBox>
+    <Vertices>
+      <PointF>
+        <X>0</X>
+        <Y>0</Y>
+      </PointF>
+      <PointF>
+        <X>320</X>
+        <Y>0</Y>
+      </PointF>
+      <PointF>
+        <X>320</X>
+        <Y>576</Y>
+      </PointF>
+      <PointF>
+        <X>0</X>
+        <Y>576</Y>
+      </PointF>
+    </Vertices>
+    <Indices>AAECAw==</Indices>
+    <ImgAlphaType>TYPE_ALPHA_8BIT</ImgAlphaType>
+    <MaskCompress>true</MaskCompress>
+    <MaskX>0</MaskX>
+    <MaskY>0</MaskY>
+    <MaskWidth>320</MaskWidth>
+    <MaskHeight>576</MaskHeight>
+    <Mask>//8B//8B0AIB</Mask>
+  </ImageModel>
+</KLBImageEditor_Plugin>
