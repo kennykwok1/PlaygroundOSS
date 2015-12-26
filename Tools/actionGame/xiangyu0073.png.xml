@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KLBImageEditor_Plugin id="1f81cf1b-fa0a-4136-9ecc-8f8573f5fb4d">
+  <ProjectPropertyModel>
+    <Version>0.2.0</Version>
+    <ProjectFile>xiangyu0073.png.xml</ProjectFile>
+    <ProjectFileRelativeDir />
+    <SaveDate>2015-12-26T19:16:45</SaveDate>
+    <EditState>false</EditState>
+    <VisibleImage>false</VisibleImage>
+    <VisiblePolygon>false</VisiblePolygon>
+    <VisibleMask>false</VisibleMask>
+    <VisibleBoundBox>false</VisibleBoundBox>
+    <VisibleGrid>false</VisibleGrid>
+    <VisibleProperty>false</VisibleProperty>
+  </ProjectPropertyModel>
+  <ContainerPropertyModel />
+  <ImageModel>
+    <isAdditive>false</isAdditive>
+    <ImgFileSize>28839</ImgFileSize>
+    <ImgFileDate>2015/12/26 9:38:20</ImgFileDate>
+    <ImgPathName>xiangyu0073.png</ImgPathName>
+    <PriorityOffset>0</PriorityOffset>
+    <ImageType>Default</ImageType>
+    <ImageTypeParams />
+    <VerticesClockwise>true</VerticesClockwise>
+    <Center>
+      <X>0</X>
+      <Y>0</Y>
+    </Center>
+    <Width>198</Width>
+    <Height>111</Height>
+    <VertexPostProcessMode>0</VertexPostProcessMode>
+    <BoundingBox>
+      <Location>
+        <X>0</X>
+        <Y>0</Y>
+      </Location>
+      <Size>
+        <Width>198</Width>
+        <Height>111</Height>
+      </Size>
+      <X>0</X>
+      <Y>0</Y>
+      <Width>198</Width>
+      <Height>111</Height>
+    </BoundingBox>
+    <Vertices>
+      <PointF>
+        <X>0</X>
+        <Y>0</Y>
+      </PointF>
+      <PointF>
+        <X>198</X>
+        <Y>0</Y>
+      </PointF>
+      <PointF>
+        <X>198</X>
+        <Y>111</Y>
+      </PointF>
+      <PointF>
+        <X>0</X>
+        <Y>111</Y>
+      </PointF>
+    </Vertices>
+    <Indices>AAECAw==</Indices>
+    <ImgAlphaType>TYPE_ALPHA_8BIT</ImgAlphaType>
+    <MaskCompress>true</MaskCompress>
+    <MaskX>0</MaskX>
+    <MaskY>0</MaskY>
+    <MaskWidth>198</MaskWidth>
+    <MaskHeight>111</MaskHeight>
+    <Mask>VdoB</Mask>
+  </ImageModel>
+</KLBImageEditor_Plugin>

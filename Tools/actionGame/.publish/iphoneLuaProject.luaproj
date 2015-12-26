@@ -18,7 +18,7 @@
     <CmdLineArgs>-i iphone/ -e iphone_external/</CmdLineArgs>
     <RemotePort>22001</RemotePort>
     <StartupFileName />
-    <WorkingDir>C:\Users\kenny\Desktop\actionGame\.publish</WorkingDir>
+    <WorkingDir>C:\work\KlabPlaygroundOSSPrj\Tools\actionGame\.publish</WorkingDir>
     <UseRemoteMachine>true</UseRemoteMachine>
     <RemoteMachineName>localhost</RemoteMachineName>
     <BuildOutputDir />

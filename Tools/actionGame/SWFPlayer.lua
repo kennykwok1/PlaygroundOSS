@@ -2,7 +2,7 @@ function setup()
 	local x = 300
 	local y = 300
 	-- 
-	pSWF = UI_SWFPlayer(nil, 7000, x, y, "asset://enemy.flsh",nil,"flash_callback")
+	pSWF = UI_SWFPlayer(nil, 7000, x, y, "asset://hero.flsh",nil,"flash_callback")
 	--[[↑
 		arg[6]には、arg[5]で指定された flash asset 内に含まれる movie clip の名称を与えますが、
 		flash 全体を再生する場合は nil にします。このため、通常の利用では nil にすることが多くなります。
