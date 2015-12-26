@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XmlLuaSolutionDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Documents />
+  <DocumentGroups>
+    <DocumentRef FileName=".\iphoneLuaProject.luaproj" />
+  </DocumentGroups>
+  <DocumentFolders />
+  <ActiveProject FileName="C:\work\KlabTest\kevinKlab\Tutorial\25.SWFPlayer\.publish\iphoneLuaProject.luaproj" />
+  <Id>2f0aec2c-a964-471d-9193-143072553d59</Id>
+</XmlLuaSolutionDocument>

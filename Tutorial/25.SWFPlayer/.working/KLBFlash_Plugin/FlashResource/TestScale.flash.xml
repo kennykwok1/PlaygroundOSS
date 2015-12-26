@@ -1,0 +1,2265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<swf version="10" compressed="1">
+  <Header framerate="20" frames="40">
+    <size>
+      <Rectangle left="0" right="6400" top="0" bottom="4800"/>
+    </size>
+    <tags>
+      <FileAttributes hasMetaData="1" allowABC="1" suppressCrossDomainCaching="0" swfRelativeURLs="0" useNetwork="0"/>
+      <Metadata>
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/" rdf:about=""> <xmp:CreatorTool>Adobe Flash Professional CS5</xmp:CreatorTool> <xmp:CreateDate>2011-12-15T18:50:02+09:00</xmp:CreateDate> <xmp:MetadataDate>2013-09-25T18:09:27+09:00</xmp:MetadataDate> <xmp:ModifyDate>2013-09-25T18:09:27+09:00</xmp:ModifyDate> </rdf:Description> <rdf:Description xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" rdf:about=""> <xmpMM:InstanceID>xmp.iid:87BC7B2CC225E311BB35F064DEE4C765</xmpMM:InstanceID> <xmpMM:DocumentID>xmp.did:87BC7B2CC225E311BB35F064DEE4C765</xmpMM:DocumentID> <xmpMM:OriginalDocumentID>xmp.did:E6D9DFD60327E111B9CB8886F37FCDD1</xmpMM:OriginalDocumentID> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:86BC7B2CC225E311BB35F064DEE4C765</stRef:instanceID> <stRef:documentID>xmp.did:E9D9DFD60327E111B9CB8886F37FCDD1</stRef:documentID> <stRef:originalDocumentID>xmp.did:E6D9DFD60327E111B9CB8886F37FCDD1</stRef:originalDocumentID> </xmpMM:DerivedFrom> </rdf:Description> <rdf:Description xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:about=""> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> </rdf:RDF>
+      </Metadata>
+      <SetBackgroundColor>
+        <color>
+          <Color red="255" green="255" blue="255"/>
+        </color>
+      </SetBackgroundColor>
+      <DefineSceneAndFrameLabelData>
+        <scenes>
+          <Scene offset="0" name="シーン 1"/>
+        </scenes>
+        <frames>
+          <Frame number="0" label="lbl1"/>
+          <Frame number="3" label="lbl2"/>
+          <Frame number="4" label="lblStop"/>
+          <Frame number="16" label="frameLabel"/>
+          <Frame number="31" label="lblDst"/>
+        </frames>
+      </DefineSceneAndFrameLabelData>
+      <DefineBitsLossless objectID="1" format="5" width="24" height="32">
+        <data>
+          <data>eNpNlntQVOcZh0nTZlLFqBhBQJDbcl0WWWCBZZfdZXfZXVhY7iCwi1yXO4ssCywggggiqKjVqDGdxMTm5phJahvHZppbYzPTadpp808mnWknaWeSmnQmMTVNNfP0O6fV9I9nvu+cM+f3vt97O4caZyrlVgXlpmRs2hTsBam0OIporyqmUpdMpSGB+lIF9fZUSvVx5CojSNn1KPGR4cRERBIZFkKeKgyzNpKc9Acw5T/E4TkLr/3Ux8+vdOIw78KojcKi3UV5cQZVxt20u0z0NZXSWpZLR62G7oY89tZm4ypNQ6uOQZkUiSImisSYGNLiQ4kSNmK3h5ASE0JOagiemlgunKzjzWtjGAq3szt9A/mZYbL/5UUZ1BjVNFhzhP9JtNfk4a7MFP4nC/9jyc/aQVZKFFmpCcLfDOGXCk1mLCX5iZQbkyjIeJgi1fcY783lpae9aDVbSUt8kOz0R7Dr0yjTK3EUpuMoSMaijqLKlIBTvxOHLko834VVn4y5SIXNqMVls9Jc7aTZ5WCgrZbRrlo8VXk02hTi/JmMd+dSWhKDOnMT2pwIqqzZVFty5RhVGTIp08Zj1URgKwynxppAR2M+XrcFd52VeqeVmjIbDc4KTHl52IvyaK+1M7q3En+ng+HmQty2ODr36nE6RO6MyeJ8Siz5KVjzFNg0SRSrtqNXbcaQ/QgucwxdzZJ+ichDHgUqBcrEWHTZ+SRGRqGKE/nT5eHSZ1GtS2GgNp+DAw5WV72M+Vy0NuhwmJQYchKp0Geyxy6dQ9gsihL6oTJl+mhsujiRw3DiwkOJ3rIBRVQsqTt3olWmYcxKITc+DIsqktFGHcf9DTz//CHWj/vw++ppriumsbxI5KaR9flB1mY6GHLrqC6JpjDj+2jSHhLaG8iM24QqIRyNMpGYbVvJTIglJzmG9KiN6DMimOy0s+KrpseRwlNP72flSD/7Ruvp7XDS2eyg3+1kYczDhbV9LAXqODxVI2wWY80PQ7EjhNzUMHSqeBK2h5IUtQWlsJUeE0rKjgcpVUcwLPI0Uq+mrmALU7PNjAca8I3U4u2opKFC+GvJoXePheXJFsY6Tfi7dfQ0KjGqN5IWFUJBWpiowRjitz0s6v8RspK2iPNsIFfxMFWi1kb2qBmqy6CpaDM+fzWTMy3Mz3uZ8u8VtWGm0pyNt8nE2uxeZgbtBAeMjHbk02CLFTY2i3oSdapJFPHYRJYilJyUTeizwkQc4xltK2TF7+Cwr4TZTjXj040EZz0cONDDZKCdjhYH9WUF9LdYODLt4eSCh2NzdaxMi7rr1sq17TKI+ipIJFvkUp0cijplI5a8HXSKHl8YdnA86OJYwM6qz8TjIv6nzwc5fXaWc48tcGotyOHZAVbnvDy+NsRKsJZDfjtL4zYCXh311nhKcsLRK3eQkxBGTtImshN/iCFrOy1iRg2LGh7Zs5ve6hS6K3bx+o1n+Nn181x99QJvvv4C7/zyMtdfeoKXLx3l6qUlpvrNDLXuZtidJXpSKXo5HG3aRgpSt6JRbEMdv5ncxM0YVTuoNSTRVpZBm5glTcYoaorC+PGlg5w8N8mxEwF+dEqcZX2W48t+Ti4N88SxEQ4FXLLuXlc8HdUKMU93CN8fQStqSNLPid9GUWokluw4KkTM6o0Kms1J1OticOaGMbG/ld6RStx7rTQ2mKh2Foq+z6e31SK0G4UN0X8dGjyVMcJGIrWmaAyqLeQlbkQVvQFNQiSGjDjRU3EY0iMwpm/DohT1q3gIVUQITzx3kaXjR5henGNlfYXJ2QBWuwGTuYCxMS/Xr73IzFQ/LmHTZswUMy2XihIVenUshtxYKnSx1FtEn2t3Ys0Nx6x+lAxRwxLS/W+4w61v/8nNL2/yb/4luM3bN37BwuIEg/1ufvXmK1x57izlFjWl4vugy44hKfJB2mr1NDk1BPvK8TYUYNodhjJa9F7iD+T4FWdulm3dFYoSt+9+ya3bn4PQh6/46su/cfOTD/jgj2/z2xtXGfHWyX6rEkKJezSEQXcp4z0uFkeraXWkYVCKOt0VQtLWENLCQ3BowumqzubTm3+R9STu3P2HWG8JvoBvPxPr53z60e94940XufzUKh0NxZTkRtFSkUOPmIeHJ0V/7HeLuomlShfNYFM+LjEPNQkP0FOTzTPrI9z55u98e+czvv7qY27f+oi7X/+Vzz95n48+fJebH7/H3S8+5E+/v8b7Ny5zZmlQzKNWfnJ6itOLvTx7JshL5/z4PYVMdui5uOblxHQDY+4Cjvhd8rNLT67x1PllTh+b5sTqOKdWA5w+4ufqCye4+ed3+OA3L/OHt57j2bPTnF0e4NxSLxdWBnjx7CTnD/WwMlrO0XEXFxY9nF9oZc5rwtekJtihE/PfSndLCRNDdcxPeDg40cbsaCPj3gqOzLRz7fk1Lp4KCN0+Zvoc7Gsz4GstYmiPqK22Ygbr82g2RnNooJRTU3VMCL89ll00FUfSVaZgvEXDG688xltXz3H98gleu3KC916/KHiSd66e4devnuH6s8usz7Zy5fwUB0WfTLYbWPXX0GJJIChm60BNOsH2QkYaVHgrkwm48+5z1O9kdcbN2rSbozMejgqdYyJfEifuIe6dmmvl9LyHs/NtnDnQwqnZJtaD9RydqOHkVDXHA5Ws7iuTkTTXJ1z3WfbX3ufweJ3MSqCelYlaVifqWB6rYmW8RuxrZL21QDUrY5Us+cpZFLNybV8FKyNlLA3aZA6Le0fEs3vMj3zHgs8pYuBk0Vchc2i0UmZJaCwLTQlpvyi9N2RnTsR9cbCU+T6znFcJab/Qb5HXA70lHBA27yG9IyHN8IXh8v8ibMp2RytkpP2B4TL2i+/OTH8p+3vNTHcbmeoslpH2Mz0mgl0GuWZn+yzfIepJYr/wSXp/bsgha9xjus/KZK+FQE+J+HcS380uodttYaJTXLcbCXSY5P29630ePVPiTPcIivNMi3NJOhJBSVfYmR6wib2dqT6b0C8l0GsVNWyRmegSa0cJ/naTTKDTLF+PeooZbin6n55Z+GeRmRVaEpKuxP5hp8z0UBnBQQdTA3Ym+75jrMMi/tlK7rOv3SyvQ63F4ruhFbG0y8yPOO7n+IBgXsRaYrLfxkRfqezrWLd4X5x9tOv/EFq+NhMjHqO8StfSfqBZJ83V/wAyLkD2</data>
+        </data>
+      </DefineBitsLossless>
+      <DefineShape objectID="2">
+        <bounds>
+          <Rectangle left="-240" right="240" top="-313" bottom="327"/>
+        </bounds>
+        <styles>
+          <StyleList>
+            <fillStyles>
+              <ClippedBitmap2 objectID="65535">
+                <matrix>
+                  <Transform scaleX="20.00000000000000" scaleY="20.00000000000000" transX="0" transY="0"/>
+                </matrix>
+              </ClippedBitmap2>
+              <ClippedBitmap2 objectID="1">
+                <matrix>
+                  <Transform scaleX="20.00000000000000" scaleY="20.00000000000000" transX="-240" transY="-313"/>
+                </matrix>
+              </ClippedBitmap2>
+            </fillStyles>
+            <lineStyles/>
+          </StyleList>
+        </styles>
+        <shapes>
+          <Shape>
+            <edges>
+              <ShapeSetup x="-240" y="-313" fillStyle1="2"/>
+              <LineTo x="480" y="0"/>
+              <LineTo x="0" y="640"/>
+              <LineTo x="-480" y="0"/>
+              <LineTo x="0" y="-640"/>
+              <ShapeSetup/>
+            </edges>
+          </Shape>
+        </shapes>
+      </DefineShape>
+      <DefineSprite objectID="3" frames="1">
+        <tags>
+          <PlaceObject2 replace="0" depth="1" objectID="2">
+            <transform>
+              <Transform transX="0" transY="0"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <End/>
+        </tags>
+      </DefineSprite>
+      <DefineSprite objectID="4" frames="110">
+        <tags>
+          <PlaceObject2 replace="0" depth="1" objectID="3">
+            <transform>
+              <Transform transX="-940" transY="0"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.031326293945312" scaleY="1.030380249023438" transX="-924" transY="0"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.062667846679688" scaleY="1.060760498046875" transX="-908" transY="0"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.094055175781250" scaleY="1.091186523437500" transX="-892" transY="0"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.125381469726562" scaleY="1.121566772460938" transX="-876" transY="0"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.156723022460938" scaleY="1.151931762695312" transX="-860" transY="0"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.188049316406250" scaleY="1.182312011718750" transX="-844" transY="0"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.219436645507812" scaleY="1.212738037109375" transX="-828" transY="0"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.250762939453125" scaleY="1.243118286132812" transX="-812" transY="-1"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.282104492187500" scaleY="1.273498535156250" transX="-796" transY="0"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.313430786132812" scaleY="1.303878784179688" transX="-780" transY="0"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.344818115234375" scaleY="1.334304809570312" transX="-764" transY="0"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.376144409179688" scaleY="1.364685058593750" transX="-748" transY="-1"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.407485961914062" scaleY="1.395065307617188" transX="-732" transY="-1"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.438812255859375" scaleY="1.425430297851562" transX="-717" transY="0"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.470199584960938" scaleY="1.455856323242188" transX="-701" transY="0"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.501525878906250" scaleY="1.486236572265625" transX="-685" transY="0"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.532867431640625" scaleY="1.516616821289062" transX="-669" transY="-1"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.564193725585938" scaleY="1.546997070312500" transX="-653" transY="-1"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.595581054687500" scaleY="1.577423095703125" transX="-637" transY="-1"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.626907348632812" scaleY="1.607803344726562" transX="-621" transY="0"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.658248901367188" scaleY="1.638183593750000" transX="-605" transY="0"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.689575195312500" scaleY="1.668548583984375" transX="-589" transY="-1"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.720962524414062" scaleY="1.698989868164062" transX="-573" transY="-1"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.752304077148438" scaleY="1.729354858398438" transX="-557" transY="-1"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.783630371093750" scaleY="1.759735107421875" transX="-541" transY="0"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.814956665039062" scaleY="1.790115356445312" transX="-525" transY="-1"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.846343994140625" scaleY="1.820541381835938" transX="-509" transY="-1"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.877685546875000" scaleY="1.850921630859375" transX="-493" transY="-1"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.909011840820312" scaleY="1.881301879882812" transX="-477" transY="-1"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.940353393554688" scaleY="1.911682128906250" transX="-461" transY="-1"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.971725463867188" scaleY="1.942108154296875" transX="-445" transY="-1"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.003067016601562" scaleY="1.972488403320312" transX="-429" transY="-1"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.034393310546875" scaleY="2.002853393554688" transX="-413" transY="-1"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.065734863281250" scaleY="2.033233642578125" transX="-397" transY="-1"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.097106933593750" scaleY="2.063659667968750" transX="-381" transY="-1"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.128448486328125" scaleY="2.094039916992188" transX="-365" transY="-1"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.159774780273438" scaleY="2.124420166015625" transX="-349" transY="-1"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.191116333007812" scaleY="2.154800415039062" transX="-333" transY="-1"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.222503662109375" scaleY="2.185226440429688" transX="-317" transY="-1"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.253829956054688" scaleY="2.215606689453125" transX="-301" transY="-2"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.285156250000000" scaleY="2.245971679687500" transX="-285" transY="-1"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.316497802734375" scaleY="2.276351928710938" transX="-270" transY="-1"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.347885131835938" scaleY="2.306777954101562" transX="-254" transY="-1"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.379211425781250" scaleY="2.337158203125000" transX="-238" transY="-1"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.410537719726562" scaleY="2.367538452148438" transX="-222" transY="-2"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.441879272460938" scaleY="2.397918701171875" transX="-206" transY="-2"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.473266601562500" scaleY="2.428344726562500" transX="-190" transY="-1"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.504592895507812" scaleY="2.458724975585938" transX="-174" transY="-1"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.535934448242188" scaleY="2.489105224609375" transX="-158" transY="-1"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.567260742187500" scaleY="2.519470214843750" transX="-142" transY="-2"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.598648071289062" scaleY="2.549911499023438" transX="-126" transY="-2"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.629974365234375" scaleY="2.580276489257812" transX="-110" transY="-1"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.661315917968750" scaleY="2.610656738281250" transX="-94" transY="-1"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.692642211914062" scaleY="2.641036987304688" transX="-78" transY="-1"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.724029541015625" scaleY="2.671463012695312" transX="-62" transY="-2"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.755355834960938" scaleY="2.701843261718750" transX="-46" transY="-2"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.786697387695312" scaleY="2.732223510742188" transX="-30" transY="-2"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.818023681640625" scaleY="2.762603759765625" transX="-14" transY="-1"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.849411010742188" scaleY="2.793029785156250" transX="2" transY="-2"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.880737304687500" scaleY="2.823394775390625" transX="18" transY="-2"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.912078857421875" scaleY="2.853775024414062" transX="34" transY="-2"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.943405151367188" scaleY="2.884155273437500" transX="50" transY="-2"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.974792480468750" scaleY="2.914581298828125" transX="66" transY="-1"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.006134033203125" scaleY="2.944961547851562" transX="82" transY="-2"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.037460327148438" scaleY="2.975341796875000" transX="98" transY="-2"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.068786621093750" scaleY="3.005722045898438" transX="114" transY="-2"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.100173950195312" scaleY="3.036148071289062" transX="130" transY="-2"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.131515502929688" scaleY="3.066528320312500" transX="146" transY="-2"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.162841796875000" scaleY="3.096893310546875" transX="161" transY="-2"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.194168090820312" scaleY="3.127273559570312" transX="177" transY="-2"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.225555419921875" scaleY="3.157699584960938" transX="193" transY="-2"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.256896972656250" scaleY="3.188079833984375" transX="209" transY="-2"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.288223266601562" scaleY="3.218460083007812" transX="225" transY="-3"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.319564819335938" scaleY="3.248840332031250" transX="241" transY="-2"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.350936889648438" scaleY="3.279266357421875" transX="257" transY="-2"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.382278442382812" scaleY="3.309646606445312" transX="273" transY="-2"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.413604736328125" scaleY="3.340026855468750" transX="289" transY="-2"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.444946289062500" scaleY="3.370391845703125" transX="305" transY="-3"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.476318359375000" scaleY="3.400817871093750" transX="321" transY="-3"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.507659912109375" scaleY="3.431198120117188" transX="337" transY="-2"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.538986206054688" scaleY="3.461578369140625" transX="353" transY="-2"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.570327758789062" scaleY="3.491958618164062" transX="369" transY="-2"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.601715087890625" scaleY="3.522384643554688" transX="385" transY="-3"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.633041381835938" scaleY="3.552764892578125" transX="401" transY="-3"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.664367675781250" scaleY="3.583145141601562" transX="417" transY="-2"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.695709228515625" scaleY="3.613510131835938" transX="433" transY="-2"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.727096557617188" scaleY="3.643951416015625" transX="449" transY="-3"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.758422851562500" scaleY="3.674316406250000" transX="465" transY="-3"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.789764404296875" scaleY="3.704696655273438" transX="481" transY="-3"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.821090698242188" scaleY="3.735076904296875" transX="497" transY="-2"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.852478027343750" scaleY="3.765502929687500" transX="513" transY="-2"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.883804321289062" scaleY="3.795883178710938" transX="529" transY="-3"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.915145874023438" scaleY="3.826263427734375" transX="545" transY="-3"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.946472167968750" scaleY="3.856643676757812" transX="561" transY="-3"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.977859497070312" scaleY="3.887069702148438" transX="577" transY="-3"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="4.009185791015625" scaleY="3.917449951171875" transX="592" transY="-2"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="4.040527343750000" scaleY="3.947814941406250" transX="608" transY="-3"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="4.071853637695312" scaleY="3.978195190429688" transX="624" transY="-3"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="4.103240966796875" scaleY="4.008621215820312" transX="640" transY="-3"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="4.134567260742188" scaleY="4.039001464843750" transX="656" transY="-3"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="4.165908813476562" scaleY="4.069381713867188" transX="672" transY="-2"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="4.197235107421875" scaleY="4.099761962890625" transX="688" transY="-3"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="4.228622436523438" scaleY="4.130187988281250" transX="704" transY="-3"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="4.259948730468750" scaleY="4.160568237304688" transX="720" transY="-3"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="4.291290283203125" scaleY="4.190933227539062" transX="736" transY="-3"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="4.322616577148438" scaleY="4.221313476562500" transX="752" transY="-4"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="4.354003906250000" scaleY="4.251739501953125" transX="768" transY="-3"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="4.385345458984375" scaleY="4.282119750976562" transX="784" transY="-3"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="4.416671752929688" scaleY="4.312500000000000" transX="800" transY="-3"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <End/>
+        </tags>
+      </DefineSprite>
+      <FrameLabel label="lbl1">
+        <flags/>
+      </FrameLabel>
+      <PlaceObject2 replace="0" depth="1" objectID="3">
+        <transform>
+          <Transform transX="0" transY="0"/>
+        </transform>
+      </PlaceObject2>
+      <PlaceObject2 replace="0" depth="5" objectID="4">
+        <transform>
+          <Transform transX="4060" transY="2200"/>
+        </transform>
+      </PlaceObject2>
+      <DefineSprite objectID="5" frames="50">
+        <tags>
+          <PlaceObject2 replace="0" depth="1" objectID="3">
+            <transform>
+              <Transform transX="-620" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="0" factorBlue="0" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-594" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="10" factorBlue="10" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-568" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="20" factorBlue="20" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-542" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="31" factorBlue="31" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-516" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="41" factorBlue="41" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-489" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="51" factorBlue="51" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-463" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="61" factorBlue="61" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-437" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="72" factorBlue="72" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-411" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="82" factorBlue="82" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-385" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="92" factorBlue="92" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-359" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="102" factorBlue="102" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-333" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="113" factorBlue="113" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-307" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="123" factorBlue="123" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-280" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="133" factorBlue="133" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-254" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="143" factorBlue="143" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-228" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="154" factorBlue="154" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-202" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="164" factorBlue="164" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-176" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="174" factorBlue="174" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-150" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="184" factorBlue="184" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-124" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="195" factorBlue="195" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-98" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="205" factorBlue="205" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-71" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="215" factorBlue="215" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-45" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="225" factorBlue="225" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-19" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="236" factorBlue="236" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="7" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="246" factorBlue="246" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="33" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="7" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="245" factorGreen="256" factorBlue="245" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-18" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="235" factorGreen="256" factorBlue="235" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-44" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="224" factorGreen="256" factorBlue="224" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-69" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="213" factorGreen="256" factorBlue="213" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-95" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="203" factorGreen="256" factorBlue="203" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-120" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="192" factorGreen="256" factorBlue="192" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-146" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="181" factorGreen="256" factorBlue="181" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-171" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="171" factorGreen="256" factorBlue="171" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-197" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="160" factorGreen="256" factorBlue="160" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-222" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="149" factorGreen="256" factorBlue="149" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-248" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="139" factorGreen="256" factorBlue="139" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-273" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="128" factorGreen="256" factorBlue="128" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-299" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="117" factorGreen="256" factorBlue="117" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-325" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="107" factorGreen="256" factorBlue="107" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-350" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="96" factorGreen="256" factorBlue="96" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-376" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="85" factorGreen="256" factorBlue="85" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-401" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="75" factorGreen="256" factorBlue="75" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-427" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="64" factorGreen="256" factorBlue="64" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-452" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="53" factorGreen="256" factorBlue="53" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-478" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="43" factorGreen="256" factorBlue="43" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-503" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="32" factorGreen="256" factorBlue="32" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-529" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="21" factorGreen="256" factorBlue="21" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-554" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="11" factorGreen="256" factorBlue="11" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-580" transY="0"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="0" factorGreen="256" factorBlue="0" factorAlpha="256"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <End/>
+        </tags>
+      </DefineSprite>
+      <DefineSprite objectID="6" frames="20">
+        <tags>
+          <PlaceObject2 replace="0" depth="1" objectID="5">
+            <transform>
+              <Transform transX="-20" transY="-780"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-19" transY="-704"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="256" factorBlue="256" factorAlpha="241"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-18" transY="-628"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="256" factorBlue="256" factorAlpha="227"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-17" transY="-553"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="256" factorBlue="256" factorAlpha="212"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-16" transY="-477"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="256" factorBlue="256" factorAlpha="198"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-15" transY="-401"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="256" factorBlue="256" factorAlpha="183"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-14" transY="-325"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="256" factorBlue="256" factorAlpha="169"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-13" transY="-250"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="256" factorBlue="256" factorAlpha="154"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-12" transY="-174"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="256" factorBlue="256" factorAlpha="140"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-11" transY="-98"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="256" factorBlue="256" factorAlpha="125"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-14" transY="-158"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="256" factorBlue="256" factorAlpha="138"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-17" transY="-218"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="256" factorBlue="256" factorAlpha="151"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-20" transY="-279"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="256" factorBlue="256" factorAlpha="164"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-23" transY="-339"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="256" factorBlue="256" factorAlpha="177"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-25" transY="-399"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="256" factorBlue="256" factorAlpha="191"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-28" transY="-459"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="256" factorBlue="256" factorAlpha="204"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-31" transY="-519"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="256" factorBlue="256" factorAlpha="217"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-34" transY="-580"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="256" factorBlue="256" factorAlpha="230"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-37" transY="-640"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2 factorRed="256" factorGreen="256" factorBlue="256" factorAlpha="243"/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform transX="-40" transY="-700"/>
+            </transform>
+            <colorTransform>
+              <ColorTransform2/>
+            </colorTransform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <End/>
+        </tags>
+      </DefineSprite>
+      <DefineSprite objectID="7" frames="66">
+        <tags>
+          <PlaceObject2 replace="0" depth="1" objectID="6">
+            <transform>
+              <Transform transX="0" transY="0"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.051284790039062" scaleY="1.041351318359375" transX="33" transY="32"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.102569580078125" scaleY="1.082687377929688" transX="66" transY="64"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.153839111328125" scaleY="1.124038696289062" transX="98" transY="96"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <FrameLabel label="internalFrame5">
+            <flags/>
+          </FrameLabel>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.205123901367188" scaleY="1.165374755859375" transX="131" transY="128"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.256408691406250" scaleY="1.206726074218750" transX="164" transY="160"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.307693481445312" scaleY="1.248077392578125" transX="197" transY="192"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.358963012695312" scaleY="1.289413452148438" transX="230" transY="224"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.410278320312500" scaleY="1.330780029296875" transX="263" transY="256"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.461563110351562" scaleY="1.372131347656250" transX="295" transY="288"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.512832641601562" scaleY="1.413467407226562" transX="328" transY="320"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.564117431640625" scaleY="1.454818725585938" transX="361" transY="352"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.615402221679688" scaleY="1.496154785156250" transX="394" transY="384"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.666687011718750" scaleY="1.537506103515625" transX="427" transY="415"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.717956542968750" scaleY="1.578857421875000" transX="459" transY="447"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.769241333007812" scaleY="1.620193481445312" transX="492" transY="479"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.820526123046875" scaleY="1.661544799804688" transX="525" transY="511"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.871810913085938" scaleY="1.702880859375000" transX="558" transY="543"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.923080444335938" scaleY="1.744232177734375" transX="591" transY="575"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="1.974365234375000" scaleY="1.785583496093750" transX="624" transY="607"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.025650024414062" scaleY="1.826919555664062" transX="656" transY="639"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.076934814453125" scaleY="1.868270874023438" transX="689" transY="671"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.128204345703125" scaleY="1.909606933593750" transX="722" transY="703"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.179489135742188" scaleY="1.950958251953125" transX="755" transY="735"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.230804443359375" scaleY="1.992324829101562" transX="788" transY="767"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.282073974609375" scaleY="2.033660888671875" transX="821" transY="799"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.333358764648438" scaleY="2.075012207031250" transX="853" transY="831"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.384643554687500" scaleY="2.116363525390625" transX="886" transY="863"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.435928344726562" scaleY="2.157699584960938" transX="919" transY="895"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.487197875976562" scaleY="2.199050903320312" transX="952" transY="927"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.538482666015625" scaleY="2.240386962890625" transX="985" transY="959"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.589767456054688" scaleY="2.281738281250000" transX="1017" transY="991"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.668167114257812" scaleY="2.247833251953125" transX="1067" transY="965"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.746536254882812" scaleY="2.213943481445312" transX="1117" transY="940"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.824890136718750" scaleY="2.180038452148438" transX="1167" transY="913"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.903259277343750" scaleY="2.146163940429688" transX="1217" transY="887"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="2.981613159179688" scaleY="2.112243652343750" transX="1267" transY="860"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.059982299804688" scaleY="2.078369140625000" transX="1318" transY="835"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.138336181640625" scaleY="2.044464111328125" transX="1367" transY="808"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.216705322265625" scaleY="2.010589599609375" transX="1418" transY="782"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.295059204101562" scaleY="1.976669311523438" transX="1468" transY="756"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.373428344726562" scaleY="1.942794799804688" transX="1518" transY="730"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.451828002929688" scaleY="1.908889770507812" transX="1569" transY="703"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.530151367187500" scaleY="1.874969482421875" transX="1618" transY="677"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.608551025390625" scaleY="1.841094970703125" transX="1668" transY="651"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.686874389648438" scaleY="1.807220458984375" transX="1719" transY="625"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.765274047851562" scaleY="1.773315429687500" transX="1769" transY="598"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.843597412109375" scaleY="1.739395141601562" transX="1818" transY="572"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="3.921997070312500" scaleY="1.705520629882812" transX="1869" transY="547"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="4.000350952148438" scaleY="1.671615600585938" transX="1918" transY="521"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="4.078720092773438" scaleY="1.637695312500000" transX="1968" transY="494"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="4.157119750976562" scaleY="1.603820800781250" transX="2018" transY="469"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="4.235443115234375" scaleY="1.569915771484375" transX="2068" transY="442"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="4.313842773437500" scaleY="1.536041259765625" transX="2119" transY="416"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="4.392166137695312" scaleY="1.502120971679688" transX="2169" transY="389"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="4.470565795898438" scaleY="1.468246459960938" transX="2219" transY="364"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="4.548889160156250" scaleY="1.434341430664062" transX="2269" transY="337"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="4.627288818359375" scaleY="1.400421142578125" transX="2319" transY="311"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="4.705612182617188" scaleY="1.366546630859375" transX="2369" transY="285"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="4.784011840820312" scaleY="1.332641601562500" transX="2420" transY="259"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="4.862335205078125" scaleY="1.298767089843750" transX="2469" transY="232"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="4.940734863281250" scaleY="1.264846801757812" transX="2519" transY="206"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="5.019104003906250" scaleY="1.230972290039062" transX="2570" transY="180"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="5.097457885742188" scaleY="1.197067260742188" transX="2620" transY="154"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="5.175827026367188" scaleY="1.163192749023438" transX="2670" transY="127"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <PlaceObject2 replace="1" depth="1">
+            <transform>
+              <Transform scaleX="5.254135131835938" scaleY="1.129272460937500" transX="2722" transY="101"/>
+            </transform>
+          </PlaceObject2>
+          <ShowFrame/>
+          <End/>
+        </tags>
+      </DefineSprite>
+      <PlaceObject2 replace="0" depth="7" objectID="7">
+        <transform>
+          <Transform transX="3740" transY="1860"/>
+        </transform>
+      </PlaceObject2>
+      <PlaceObject2 replace="0" depth="9" objectID="3">
+        <transform>
+          <Transform transX="2820" transY="2120"/>
+        </transform>
+        <colorTransform>
+          <ColorTransform2 factorRed="128" factorGreen="0" factorBlue="0" factorAlpha="128"/>
+        </colorTransform>
+      </PlaceObject2>
+      <DoABCDefine flags="1" name="">
+        <actions>
+          <Action3 minorVersion="16" majorVersion="46">
+            <constants>
+              <Constants>
+                <ints/>
+                <uints/>
+                <doubles/>
+                <strings>
+                  <String2 value="Char.png"/>
+                  <String2 value="imag"/>
+                  <String2 value="flash.display"/>
+                  <String2 value="MovieClip"/>
+                  <String2 value="Char.png:imag"/>
+                  <String2 value=""/>
+                  <String2 value="movie"/>
+                  <String2 value="Object"/>
+                  <String2 value="flash.events"/>
+                  <String2 value="EventDispatcher"/>
+                  <String2 value="DisplayObject"/>
+                  <String2 value="InteractiveObject"/>
+                  <String2 value="DisplayObjectContainer"/>
+                  <String2 value="Sprite"/>
+                </strings>
+                <namespaces>
+                  <PackageNamespace index="1"/>
+                  <PackageNamespace index="3"/>
+                  <ProtectedNamespace index="5"/>
+                  <PackageNamespace index="6"/>
+                  <ProtectedNamespace index="7"/>
+                  <PackageNamespace index="9"/>
+                </namespaces>
+                <namespaceSets/>
+                <multinames>
+                  <QName namespaceIndex="1" nameIndex="2"/>
+                  <QName namespaceIndex="2" nameIndex="4"/>
+                  <QName namespaceIndex="4" nameIndex="7"/>
+                  <QName namespaceIndex="4" nameIndex="8"/>
+                  <QName namespaceIndex="6" nameIndex="10"/>
+                  <QName namespaceIndex="2" nameIndex="11"/>
+                  <QName namespaceIndex="2" nameIndex="12"/>
+                  <QName namespaceIndex="2" nameIndex="13"/>
+                  <QName namespaceIndex="2" nameIndex="14"/>
+                </multinames>
+              </Constants>
+            </constants>
+            <methods>
+              <MethodInfo retType="0" nameIndex="0" hasParamNames="0" setSDXNs="0" isExplicit="0" ignoreRest="0" hasOptional="0" needRest="0" needActivation="0" needArguments="0">
+                <paramTypes/>
+              </MethodInfo>
+              <MethodInfo retType="0" nameIndex="0" hasParamNames="0" setSDXNs="0" isExplicit="0" ignoreRest="0" hasOptional="0" needRest="0" needActivation="0" needArguments="0">
+                <paramTypes/>
+              </MethodInfo>
+              <MethodInfo retType="0" nameIndex="0" hasParamNames="0" setSDXNs="0" isExplicit="0" ignoreRest="0" hasOptional="0" needRest="0" needActivation="0" needArguments="0">
+                <paramTypes/>
+              </MethodInfo>
+              <MethodInfo retType="0" nameIndex="0" hasParamNames="0" setSDXNs="0" isExplicit="0" ignoreRest="0" hasOptional="0" needRest="0" needActivation="0" needArguments="0">
+                <paramTypes/>
+              </MethodInfo>
+              <MethodInfo retType="0" nameIndex="0" hasParamNames="0" setSDXNs="0" isExplicit="0" ignoreRest="0" hasOptional="0" needRest="0" needActivation="0" needArguments="0">
+                <paramTypes/>
+              </MethodInfo>
+              <MethodInfo retType="0" nameIndex="0" hasParamNames="0" setSDXNs="0" isExplicit="0" ignoreRest="0" hasOptional="0" needRest="0" needActivation="0" needArguments="0">
+                <paramTypes/>
+              </MethodInfo>
+            </methods>
+            <metadata/>
+            <instances>
+              <InstanceInfo nameIndex="1" superIndex="2" hasProtectedNS="1" interface="0" final="0" sealed="0" protectedNS="3" iInitIndex="1">
+                <interfaces/>
+                <traits/>
+              </InstanceInfo>
+              <InstanceInfo nameIndex="3" superIndex="2" hasProtectedNS="1" interface="0" final="0" sealed="0" protectedNS="5" iInitIndex="4">
+                <interfaces/>
+                <traits/>
+              </InstanceInfo>
+            </instances>
+            <classes>
+              <ClassInfo cInitIndex="0">
+                <traits/>
+              </ClassInfo>
+              <ClassInfo cInitIndex="3">
+                <traits/>
+              </ClassInfo>
+            </classes>
+            <scripts>
+              <ScriptInfo initIndex="2">
+                <traits>
+                  <TraitInfo nameIndex="1" override="0" final="0">
+                    <trait>
+                      <Class slotID="1" classInfo="0"/>
+                    </trait>
+                  </TraitInfo>
+                </traits>
+              </ScriptInfo>
+              <ScriptInfo initIndex="5">
+                <traits>
+                  <TraitInfo nameIndex="3" override="0" final="0">
+                    <trait>
+                      <Class slotID="1" classInfo="1"/>
+                    </trait>
+                  </TraitInfo>
+                </traits>
+              </ScriptInfo>
+            </scripts>
+            <methodBodies>
+              <MethodBody methodInfo="0" maxStack="1" maxRegs="1" scopeDepth="9" maxScope="10" exceptionCount="0">
+                <code>
+                  <OpGetLocal0/>
+                  <OpPushScope/>
+                  <OpReturnVoid/>
+                </code>
+                <exceptions/>
+                <traits/>
+              </MethodBody>
+              <MethodBody methodInfo="1" maxStack="1" maxRegs="1" scopeDepth="10" maxScope="11" exceptionCount="0">
+                <code>
+                  <OpGetLocal0/>
+                  <OpPushScope/>
+                  <OpGetLocal0/>
+                  <OpConstructSuper argc="0"/>
+                  <OpReturnVoid/>
+                </code>
+                <exceptions/>
+                <traits/>
+              </MethodBody>
+              <MethodBody methodInfo="2" maxStack="2" maxRegs="1" scopeDepth="1" maxScope="9" exceptionCount="0">
+                <code>
+                  <OpGetLocal0/>
+                  <OpPushScope/>
+                  <OpGetScopeObject scopeIndex="0"/>
+                  <OpGetLex name="4"/>
+                  <OpPushScope/>
+                  <OpGetLex name="5"/>
+                  <OpPushScope/>
+                  <OpGetLex name="6"/>
+                  <OpPushScope/>
+                  <OpGetLex name="7"/>
+                  <OpPushScope/>
+                  <OpGetLex name="8"/>
+                  <OpPushScope/>
+                  <OpGetLex name="9"/>
+                  <OpPushScope/>
+                  <OpGetLex name="2"/>
+                  <OpPushScope/>
+                  <OpGetLex name="2"/>
+                  <OpNewClass classIndex="0"/>
+                  <OpPopScope/>
+                  <OpPopScope/>
+                  <OpPopScope/>
+                  <OpPopScope/>
+                  <OpPopScope/>
+                  <OpPopScope/>
+                  <OpPopScope/>
+                  <OpInitProperty name="1"/>
+                  <OpReturnVoid/>
+                </code>
+                <exceptions/>
+                <traits/>
+              </MethodBody>
+              <MethodBody methodInfo="3" maxStack="1" maxRegs="1" scopeDepth="9" maxScope="10" exceptionCount="0">
+                <code>
+                  <OpGetLocal0/>
+                  <OpPushScope/>
+                  <OpReturnVoid/>
+                </code>
+                <exceptions/>
+                <traits/>
+              </MethodBody>
+              <MethodBody methodInfo="4" maxStack="1" maxRegs="1" scopeDepth="10" maxScope="11" exceptionCount="0">
+                <code>
+                  <OpGetLocal0/>
+                  <OpPushScope/>
+                  <OpGetLocal0/>
+                  <OpConstructSuper argc="0"/>
+                  <OpReturnVoid/>
+                </code>
+                <exceptions/>
+                <traits/>
+              </MethodBody>
+              <MethodBody methodInfo="5" maxStack="2" maxRegs="1" scopeDepth="1" maxScope="9" exceptionCount="0">
+                <code>
+                  <OpGetLocal0/>
+                  <OpPushScope/>
+                  <OpGetScopeObject scopeIndex="0"/>
+                  <OpGetLex name="4"/>
+                  <OpPushScope/>
+                  <OpGetLex name="5"/>
+                  <OpPushScope/>
+                  <OpGetLex name="6"/>
+                  <OpPushScope/>
+                  <OpGetLex name="7"/>
+                  <OpPushScope/>
+                  <OpGetLex name="8"/>
+                  <OpPushScope/>
+                  <OpGetLex name="9"/>
+                  <OpPushScope/>
+                  <OpGetLex name="2"/>
+                  <OpPushScope/>
+                  <OpGetLex name="2"/>
+                  <OpNewClass classIndex="1"/>
+                  <OpPopScope/>
+                  <OpPopScope/>
+                  <OpPopScope/>
+                  <OpPopScope/>
+                  <OpPopScope/>
+                  <OpPopScope/>
+                  <OpPopScope/>
+                  <OpInitProperty name="3"/>
+                  <OpReturnVoid/>
+                </code>
+                <exceptions/>
+                <traits/>
+              </MethodBody>
+            </methodBodies>
+          </Action3>
+        </actions>
+      </DoABCDefine>
+      <SymbolClass>
+        <symbols>
+          <Symbol objectID="4" name="movie"/>
+          <Symbol objectID="3" name="Char.png.imag"/>
+        </symbols>
+      </SymbolClass>
+      <ShowFrame/>
+      <PlaceObject2 replace="1" depth="1">
+        <transform>
+          <Transform scaleX="1.175445556640625" scaleY="1.125000000000000" transX="169" transY="126"/>
+        </transform>
+      </PlaceObject2>
+      <ShowFrame/>
+      <PlaceObject2 replace="1" depth="1">
+        <transform>
+          <Transform scaleX="1.350875854492188" scaleY="1.250000000000000" transX="337" transY="253"/>
+        </transform>
+      </PlaceObject2>
+      <ShowFrame/>
+      <FrameLabel label="lbl2">
+        <flags/>
+      </FrameLabel>
+      <PlaceObject2 replace="1" depth="1">
+        <transform>
+          <Transform scaleX="1.526321411132812" scaleY="1.374984741210938" transX="506" transY="379"/>
+        </transform>
+      </PlaceObject2>
+      <ShowFrame/>
+      <FrameLabel label="lblStop">
+        <flags/>
+      </FrameLabel>
+      <PlaceObject2 replace="1" depth="1">
+        <transform>
+          <Transform scaleX="1.701751708984375" scaleY="1.499984741210938" transX="674" transY="506"/>
+        </transform>
+      </PlaceObject2>
+      <ShowFrame/>
+      <PlaceObject2 replace="1" depth="1">
+        <transform>
+          <Transform scaleX="2.052612304687500" scaleY="1.749984741210938" transX="1009" transY="758"/>
+        </transform>
+      </PlaceObject2>
+      <ShowFrame/>
+      <PlaceObject2 replace="1" depth="1">
+        <transform>
+          <Transform scaleX="2.222717285156250" scaleY="1.871154785156250" transX="1171" transY="880"/>
+        </transform>
+      </PlaceObject2>
+      <ShowFrame/>
+      <PlaceObject2 replace="1" depth="1">
+        <transform>
+          <Transform scaleX="2.392883300781250" scaleY="1.992416381835938" transX="1335" transY="1003"/>
+        </transform>
+      </PlaceObject2>
+      <ShowFrame/>
+      <PlaceObject2 replace="1" depth="1">
+        <transform>
+          <Transform scaleX="2.562973022460938" scaleY="2.113601684570312" transX="1498" transY="1125"/>
+        </transform>
+      </PlaceObject2>
+      <ShowFrame/>
+      <PlaceObject2 replace="1" depth="1">
+        <transform>
+          <Transform scaleX="2.733078002929688" scaleY="2.234802246093750" transX="1660" transY="1248"/>
+        </transform>
+      </PlaceObject2>
+      <ShowFrame/>
+      <PlaceObject2 replace="1" depth="1">
+        <transform>
+          <Transform scaleX="2.903182983398438" scaleY="2.356002807617188" transX="1824" transY="1370"/>
+        </transform>
+      </PlaceObject2>
+      <ShowFrame/>
+      <PlaceObject2 replace="1" depth="1">
+        <transform>
+          <Transform scaleX="3.073348999023438" scaleY="2.477233886718750" transX="1988" transY="1493"/>
+        </transform>
+      </PlaceObject2>
+      <ShowFrame/>
+      <PlaceObject2 replace="1" depth="1">
+        <transform>
+          <Transform scaleX="3.243438720703125" scaleY="2.598403930664062" transX="2150" transY="1615"/>
+        </transform>
+      </PlaceObject2>
+      <ShowFrame/>
+      <PlaceObject2 replace="1" depth="1">
+        <transform>
+          <Transform scaleX="3.413574218750000" scaleY="2.719604492187500" transX="2314" transY="1738"/>
+        </transform>
+      </PlaceObject2>
+      <ShowFrame/>
+      <PlaceObject2 replace="1" depth="1">
+        <transform>
+          <Transform scaleX="3.583679199218750" scaleY="2.840820312500000" transX="2477" transY="1860"/>
+        </transform>
+      </PlaceObject2>
+      <ShowFrame/>
+      <PlaceObject2 replace="1" depth="1">
+        <transform>
+          <Transform scaleX="3.753845214843750" scaleY="2.962066650390625" transX="2640" transY="1984"/>
+        </transform>
+      </PlaceObject2>
+      <ShowFrame/>
+      <FrameLabel label="frameLabel">
+        <flags/>
+      </FrameLabel>
+      <PlaceObject2 replace="1" depth="1">
+        <transform>
+          <Transform scaleX="3.923934936523438" scaleY="3.083251953125000" transX="2803" transY="2105"/>
+        </transform>
+      </PlaceObject2>
+      <PlaceObject2 replace="0" depth="3" objectID="4" morph="16">
+        <transform>
+          <Transform transX="5000" transY="3233"/>
+        </transform>
+      </PlaceObject2>
+      <ShowFrame/>
+      <PlaceObject2 replace="1" depth="1">
+        <transform>
+          <Transform scaleX="4.094039916992188" scaleY="3.204452514648438" transX="2967" transY="2228"/>
+        </transform>
+      </PlaceObject2>
+      <ShowFrame/>
+      <PlaceObject2 replace="1" depth="1">
+        <transform>
+          <Transform scaleX="4.264144897460938" scaleY="3.325653076171875" transX="3129" transY="2350"/>
+        </transform>
+      </PlaceObject2>
+      <ShowFrame/>
+      <PlaceObject2 replace="1" depth="1">
+        <transform>
+          <Transform scaleX="4.434310913085938" scaleY="3.446884155273438" transX="3293" transY="2474"/>
+        </transform>
+      </PlaceObject2>
+      <ShowFrame/>
+      <PlaceObject2 replace="1" depth="1">
+        <transform>
+          <Transform scaleX="4.604415893554688" scaleY="3.568084716796875" transX="3456" transY="2597"/>
+        </transform>
+      </PlaceObject2>
+      <ShowFrame/>
+      <PlaceObject2 replace="1" depth="1">
+        <transform>
+          <Transform scaleX="4.774505615234375" scaleY="3.689270019531250" transX="3619" transY="2718"/>
+        </transform>
+      </PlaceObject2>
+      <ShowFrame/>
+      <PlaceObject2 replace="1" depth="1">
+        <transform>
+          <Transform scaleX="4.944641113281250" scaleY="3.810470581054688" transX="3782" transY="2840"/>
+        </transform>
+      </PlaceObject2>
+      <ShowFrame/>
+      <PlaceObject2 replace="1" depth="1">
+        <transform>
+          <Transform scaleX="5.114807128906250" scaleY="3.931732177734375" transX="3946" transY="2964"/>
+        </transform>
+      </PlaceObject2>
+      <ShowFrame/>
+      <PlaceObject2 replace="1" depth="1">
+        <transform>
+          <Transform scaleX="5.284912109375000" scaleY="4.052902221679688" transX="4109" transY="3087"/>
+        </transform>
+      </PlaceObject2>
+      <ShowFrame/>
+      <PlaceObject2 replace="1" depth="1">
+        <transform>
+          <Transform scaleX="5.455001831054688" scaleY="4.174102783203125" transX="4272" transY="3209"/>
+        </transform>
+      </PlaceObject2>
+      <ShowFrame/>
+      <PlaceObject2 replace="1" depth="1">
+        <transform>
+          <Transform scaleX="5.625106811523438" scaleY="4.295303344726562" transX="4434" transY="3330"/>
+        </transform>
+      </PlaceObject2>
+      <ShowFrame/>
+      <PlaceObject2 replace="1" depth="1">
+        <transform>
+          <Transform scaleX="5.795272827148438" scaleY="4.416534423828125" transX="4599" transY="3454"/>
+        </transform>
+      </PlaceObject2>
+      <ShowFrame/>
+      <PlaceObject2 replace="1" depth="1">
+        <transform>
+          <Transform scaleX="5.965377807617188" scaleY="4.537734985351562" transX="4761" transY="3577"/>
+        </transform>
+      </PlaceObject2>
+      <ShowFrame/>
+      <PlaceObject2 replace="1" depth="1">
+        <transform>
+          <Transform scaleX="6.135467529296875" scaleY="4.658950805664062" transX="4924" transY="3699"/>
+        </transform>
+      </PlaceObject2>
+      <ShowFrame/>
+      <PlaceObject2 replace="1" depth="1">
+        <transform>
+          <Transform scaleX="6.305572509765625" scaleY="4.780120849609375" transX="5088" transY="3821"/>
+        </transform>
+      </PlaceObject2>
+      <ShowFrame/>
+      <FrameLabel label="lblDst">
+        <flags/>
+      </FrameLabel>
+      <PlaceObject2 replace="1" depth="1">
+        <transform>
+          <Transform scaleX="6.475738525390625" scaleY="4.901382446289062" transX="5251" transY="3944"/>
+        </transform>
+      </PlaceObject2>
+      <ShowFrame/>
+      <PlaceObject2 replace="1" depth="1">
+        <transform>
+          <Transform scaleX="6.645874023437500" scaleY="5.022628784179688" transX="5417" transY="4071"/>
+        </transform>
+      </PlaceObject2>
+      <ShowFrame/>
+      <PlaceObject2 replace="1" depth="1">
+        <transform>
+          <Transform scaleX="7.666671752929688" scaleY="5.750000000000000" transX="6400" transY="4800"/>
+        </transform>
+      </PlaceObject2>
+      <ShowFrame/>
+      <ShowFrame/>
+      <ShowFrame/>
+      <RemoveObject2 depth="5"/>
+      <ShowFrame/>
+      <ShowFrame/>
+      <ShowFrame/>
+      <RemoveObject2 depth="1"/>
+      <RemoveObject2 depth="3"/>
+      <RemoveObject2 depth="7"/>
+      <RemoveObject2 depth="9"/>
+      <ShowFrame/>
+      <End/>
+    </tags>
+  </Header>
+</swf>
