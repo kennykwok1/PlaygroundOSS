@@ -6,17 +6,26 @@
     <XmlDocumentFolder>
       <Documents>
         <DocumentRef FileName=".\start.lua" />
-        <DocumentRef FileName=".\SWFPlayer.lua" />
       </Documents>
       <DocumentGroups />
       <DocumentFolders>
         <XmlDocumentFolder>
           <Documents>
-            <DocumentRef FileName=".\PlayView.lua" />
             <DocumentRef FileName=".\startGameView.lua" />
+            <DocumentRef FileName=".\PlayView.lua" />
           </Documents>
           <DocumentGroups />
-          <DocumentFolders />
+          <DocumentFolders>
+            <XmlDocumentFolder>
+              <Documents>
+                <DocumentRef FileName=".\BattleState.lua" />
+                <DocumentRef FileName=".\extern.lua" />
+              </Documents>
+              <DocumentGroups />
+              <DocumentFolders />
+              <RelativePath>.\utils\</RelativePath>
+            </XmlDocumentFolder>
+          </DocumentFolders>
           <RelativePath>.\scripts\</RelativePath>
         </XmlDocumentFolder>
       </DocumentFolders>

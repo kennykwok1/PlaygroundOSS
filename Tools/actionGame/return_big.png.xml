@@ -4,7 +4,7 @@
     <Version>0.2.0</Version>
     <ProjectFile>return_big.png.xml</ProjectFile>
     <ProjectFileRelativeDir />
-    <SaveDate>2015-12-26T20:54:52</SaveDate>
+    <SaveDate>2015-12-27T14:03:55</SaveDate>
     <EditState>false</EditState>
     <VisibleImage>false</VisibleImage>
     <VisiblePolygon>false</VisiblePolygon>
@@ -16,8 +16,8 @@
   <ContainerPropertyModel />
   <ImageModel>
     <isAdditive>false</isAdditive>
-    <ImgFileSize>28467</ImgFileSize>
-    <ImgFileDate>2015/12/19 23:56:52</ImgFileDate>
+    <ImgFileSize>6023</ImgFileSize>
+    <ImgFileDate>2015/12/27 14:03:36</ImgFileDate>
     <ImgPathName>return_big.png</ImgPathName>
     <PriorityOffset>0</PriorityOffset>
     <ImageType>Default</ImageType>
@@ -27,8 +27,8 @@
       <X>0</X>
       <Y>0</Y>
     </Center>
-    <Width>80</Width>
-    <Height>80</Height>
+    <Width>40</Width>
+    <Height>40</Height>
     <VertexPostProcessMode>0</VertexPostProcessMode>
     <BoundingBox>
       <Location>
@@ -36,13 +36,13 @@
         <Y>0</Y>
       </Location>
       <Size>
-        <Width>80</Width>
-        <Height>80</Height>
+        <Width>40</Width>
+        <Height>40</Height>
       </Size>
       <X>0</X>
       <Y>0</Y>
-      <Width>80</Width>
-      <Height>80</Height>
+      <Width>40</Width>
+      <Height>40</Height>
     </BoundingBox>
     <Vertices>
       <PointF>
@@ -50,16 +50,16 @@
         <Y>0</Y>
       </PointF>
       <PointF>
-        <X>80</X>
+        <X>40</X>
         <Y>0</Y>
       </PointF>
       <PointF>
-        <X>80</X>
-        <Y>80</Y>
+        <X>40</X>
+        <Y>40</Y>
       </PointF>
       <PointF>
         <X>0</X>
-        <Y>80</Y>
+        <Y>40</Y>
       </PointF>
     </Vertices>
     <Indices>AAECAw==</Indices>
@@ -67,8 +67,8 @@
     <MaskCompress>true</MaskCompress>
     <MaskX>0</MaskX>
     <MaskY>0</MaskY>
-    <MaskWidth>80</MaskWidth>
-    <MaskHeight>80</MaskHeight>
-    <Mask>GQAB</Mask>
+    <MaskWidth>40</MaskWidth>
+    <MaskHeight>40</MaskHeight>
+    <Mask>BkAB</Mask>
   </ImageModel>
 </KLBImageEditor_Plugin>

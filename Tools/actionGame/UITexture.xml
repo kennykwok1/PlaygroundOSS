@@ -4,7 +4,7 @@
     <Version>0.1.0</Version>
     <ProjectFile>UITexture.xml</ProjectFile>
     <ProjectFileRelativeDir />
-    <SaveDate>2015-12-27T10:35:46</SaveDate>
+    <SaveDate>2015-12-27T15:27:23</SaveDate>
     <EditState>true</EditState>
     <ContainerScale>1</ContainerScale>
     <ContainerSnap>8</ContainerSnap>
@@ -53,32 +53,6 @@
     </TextureModel>
     <TextureModel>
       <Pos>
-        <X>344</X>
-        <Y>8</Y>
-      </Pos>
-      <Id>0</Id>
-      <Name>startGame.png</Name>
-      <IsFlipX>false</IsFlipX>
-      <IsFlipY>false</IsFlipY>
-      <IsSwitchXY>false</IsSwitchXY>
-      <ImgPathName>startGame.png</ImgPathName>
-      <ZOrder>0</ZOrder>
-    </TextureModel>
-    <TextureModel>
-      <Pos>
-        <X>344</X>
-        <Y>344</Y>
-      </Pos>
-      <Id>0</Id>
-      <Name>gameBG.png</Name>
-      <IsFlipX>false</IsFlipX>
-      <IsFlipY>false</IsFlipY>
-      <IsSwitchXY>false</IsSwitchXY>
-      <ImgPathName>gameBG.png</ImgPathName>
-      <ZOrder>0</ZOrder>
-    </TextureModel>
-    <TextureModel>
-      <Pos>
         <X>8</X>
         <Y>112</Y>
       </Pos>
@@ -101,6 +75,45 @@
       <IsFlipY>false</IsFlipY>
       <IsSwitchXY>false</IsSwitchXY>
       <ImgPathName>direction.png</ImgPathName>
+      <ZOrder>0</ZOrder>
+    </TextureModel>
+    <TextureModel>
+      <Pos>
+        <X>336</X>
+        <Y>8</Y>
+      </Pos>
+      <Id>0</Id>
+      <Name>startGame.png</Name>
+      <IsFlipX>false</IsFlipX>
+      <IsFlipY>false</IsFlipY>
+      <IsSwitchXY>false</IsSwitchXY>
+      <ImgPathName>startGame.png</ImgPathName>
+      <ZOrder>0</ZOrder>
+    </TextureModel>
+    <TextureModel>
+      <Pos>
+        <X>8</X>
+        <Y>336</Y>
+      </Pos>
+      <Id>0</Id>
+      <Name>gameBG.png</Name>
+      <IsFlipX>false</IsFlipX>
+      <IsFlipY>false</IsFlipY>
+      <IsSwitchXY>false</IsSwitchXY>
+      <ImgPathName>gameBG.png</ImgPathName>
+      <ZOrder>0</ZOrder>
+    </TextureModel>
+    <TextureModel>
+      <Pos>
+        <X>208</X>
+        <Y>96</Y>
+      </Pos>
+      <Id>0</Id>
+      <Name>direction2.png</Name>
+      <IsFlipX>false</IsFlipX>
+      <IsFlipY>false</IsFlipY>
+      <IsSwitchXY>false</IsSwitchXY>
+      <ImgPathName>direction2.png</ImgPathName>
       <ZOrder>0</ZOrder>
     </TextureModel>
   </ArrayOfTextureModel>

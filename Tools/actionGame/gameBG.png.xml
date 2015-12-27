@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<KLBImageEditor_Plugin id="edf63b1d-c7e9-4eee-ad60-7fb5328ae023">
+<KLBImageEditor_Plugin id="a6a603d8-96b9-48a3-8f2d-52cd0491f5b5">
   <ProjectPropertyModel>
     <Version>0.2.0</Version>
     <ProjectFile>gameBG.png.xml</ProjectFile>
     <ProjectFileRelativeDir />
-    <SaveDate>2015-12-27T07:02:37</SaveDate>
+    <SaveDate>2015-12-27T13:52:22</SaveDate>
     <EditState>false</EditState>
     <VisibleImage>false</VisibleImage>
     <VisiblePolygon>false</VisiblePolygon>

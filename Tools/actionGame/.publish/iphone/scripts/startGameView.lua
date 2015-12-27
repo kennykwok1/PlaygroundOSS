@@ -7,7 +7,7 @@ function setup()
 	local mainForm = UI_Form(nil,
 		7000,
 		x, y,
-		"asset://assets//StartScene.json",
+		"asset://StartGameView.json",
 		false
 	)
 	--加载首页音乐

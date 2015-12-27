@@ -10,14 +10,14 @@ function setup()
 	--
 	GL_SetResolution(CONFIG_SCREEN_WIDTH, CONFIG_SCREEN_HEIGHT)
 	
-	--跳转到主界面
-	syslog("enter  start game view")
-	sysLoad("asset://scripts/")
+	
 
 end
 
 function execute(deltaT)
-	sysLoad("asset://SWFPlayer.lua")
+	--跳转到主界面
+	syslog("enter start game view")
+	sysLoad("asset://scripts/startGameView.lua")
 	
 end
 

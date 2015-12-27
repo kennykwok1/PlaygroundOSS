@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KLBImageEditor_Plugin id="5fd8b667-8dc4-40c3-9202-a40bd06d03c0">
+  <ProjectPropertyModel>
+    <Version>0.2.0</Version>
+    <ProjectFile>direction2.png.xml</ProjectFile>
+    <ProjectFileRelativeDir />
+    <SaveDate>2015-12-27T15:25:37</SaveDate>
+    <EditState>false</EditState>
+    <VisibleImage>false</VisibleImage>
+    <VisiblePolygon>false</VisiblePolygon>
+    <VisibleMask>false</VisibleMask>
+    <VisibleBoundBox>false</VisibleBoundBox>
+    <VisibleGrid>false</VisibleGrid>
+    <VisibleProperty>false</VisibleProperty>
+  </ProjectPropertyModel>
+  <ContainerPropertyModel />
+  <ImageModel>
+    <isAdditive>false</isAdditive>
+    <ImgFileSize>9229</ImgFileSize>
+    <ImgFileDate>2015/12/27 15:25:35</ImgFileDate>
+    <ImgPathName>direction2.png</ImgPathName>
+    <PriorityOffset>0</PriorityOffset>
+    <ImageType>Default</ImageType>
+    <ImageTypeParams />
+    <VerticesClockwise>true</VerticesClockwise>
+    <Center>
+      <X>0</X>
+      <Y>0</Y>
+    </Center>
+    <Width>40</Width>
+    <Height>40</Height>
+    <VertexPostProcessMode>0</VertexPostProcessMode>
+    <BoundingBox>
+      <Location>
+        <X>0</X>
+        <Y>0</Y>
+      </Location>
+      <Size>
+        <Width>40</Width>
+        <Height>40</Height>
+      </Size>
+      <X>0</X>
+      <Y>0</Y>
+      <Width>40</Width>
+      <Height>40</Height>
+    </BoundingBox>
+    <Vertices>
+      <PointF>
+        <X>0</X>
+        <Y>0</Y>
+      </PointF>
+      <PointF>
+        <X>40</X>
+        <Y>0</Y>
+      </PointF>
+      <PointF>
+        <X>40</X>
+        <Y>40</Y>
+      </PointF>
+      <PointF>
+        <X>0</X>
+        <Y>40</Y>
+      </PointF>
+    </Vertices>
+    <Indices>AAECAw==</Indices>
+    <ImgAlphaType>TYPE_ALPHA_8BIT</ImgAlphaType>
+    <MaskCompress>true</MaskCompress>
+    <MaskX>0</MaskX>
+    <MaskY>0</MaskY>
+    <MaskWidth>40</MaskWidth>
+    <MaskHeight>40</MaskHeight>
+    <Mask>BkAB</Mask>
+  </ImageModel>
+</KLBImageEditor_Plugin>
