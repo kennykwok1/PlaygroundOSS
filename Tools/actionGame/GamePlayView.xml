@@ -145,5 +145,5 @@
     </_x0040_CommonAssets>
   </RootNode>
   <ServerApiGroup>[ServerAPI]</ServerApiGroup>
-  <WindowState>Maximized</WindowState>
+  <WindowState>Normal</WindowState>
 </KLBUIEditor_Plugin>

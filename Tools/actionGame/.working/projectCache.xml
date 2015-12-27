@@ -1450,9 +1450,9 @@
     <Entry>
       <id>63be9254-4137-45a9-884a-ed725ddfc56a</id>
       <resourcePath>GamePlayView.xml</resourcePath>
-      <resourceLastModified>2015-12-27T17:03:09.175+08:00</resourceLastModified>
-      <resourceFileSize>5489</resourceFileSize>
-      <extraXmlLastModified>0001-01-01T00:00:00</extraXmlLastModified>
+      <resourceLastModified>2015-12-27T19:02:39.313+08:00</resourceLastModified>
+      <resourceFileSize>5486</resourceFileSize>
+      <extraXmlLastModified>2015-12-27T19:02:39.34+08:00</extraXmlLastModified>
       <extraXmlFileSize>0</extraXmlFileSize>
     </Entry>
     <Entry>
@@ -1470,13 +1470,6 @@
       <resourceFileSize>6349</resourceFileSize>
       <extraXmlLastModified>2015-12-27T15:27:17.15+08:00</extraXmlLastModified>
       <extraXmlFileSize>2025</extraXmlFileSize>
-    </Entry>
-    <Entry>
-      <resourcePath>scripts/PlayView.lua</resourcePath>
-      <resourceLastModified>0001-01-01T00:00:00</resourceLastModified>
-      <resourceFileSize>0</resourceFileSize>
-      <extraXmlLastModified>0001-01-01T00:00:00</extraXmlLastModified>
-      <extraXmlFileSize>0</extraXmlFileSize>
     </Entry>
   </entries>
 </ResourceWrapperCache>

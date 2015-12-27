@@ -7,7 +7,7 @@
     <tags>
       <FileAttributes hasMetaData="1" allowABC="1" suppressCrossDomainCaching="0" swfRelativeURLs="0" useNetwork="0"/>
       <Metadata>
-        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/" rdf:about=""> <xmp:CreatorTool>Adobe Flash Professional CS6 - build 481</xmp:CreatorTool> <xmp:CreateDate>2015-12-26T10:29:58+08:00</xmp:CreateDate> <xmp:MetadataDate>2015-12-26T13:49:49+08:00</xmp:MetadataDate> <xmp:ModifyDate>2015-12-26T13:49:49+08:00</xmp:ModifyDate> </rdf:Description> <rdf:Description xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:about=""> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> <rdf:Description xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" rdf:about=""> <xmpMM:InstanceID>xmp.iid:835E5D0694ABE511B9A88B5B4AFB0449</xmpMM:InstanceID> <xmpMM:DocumentID>xmp.did:835E5D0694ABE511B9A88B5B4AFB0449</xmpMM:DocumentID> <xmpMM:OriginalDocumentID>xmp.did:91349E9B78ABE5119B0DB1C6331CFED0</xmpMM:OriginalDocumentID> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:815E5D0694ABE511B9A88B5B4AFB0449</stRef:instanceID> <stRef:documentID>xmp.did:91349E9B78ABE5119B0DB1C6331CFED0</stRef:documentID> <stRef:originalDocumentID>xmp.did:91349E9B78ABE5119B0DB1C6331CFED0</stRef:originalDocumentID> </xmpMM:DerivedFrom> </rdf:Description> </rdf:RDF>
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/" rdf:about=""> <xmp:CreatorTool>Adobe Flash Professional CS6 - build 481</xmp:CreatorTool> <xmp:CreateDate>2015-12-26T10:29:58+08:00</xmp:CreateDate> <xmp:MetadataDate>2015-12-27T19:04:28+08:00</xmp:MetadataDate> <xmp:ModifyDate>2015-12-27T19:04:28+08:00</xmp:ModifyDate> </rdf:Description> <rdf:Description xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:about=""> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> <rdf:Description xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" rdf:about=""> <xmpMM:InstanceID>xmp.iid:33CBF86288ACE511873392A37791E4C4</xmpMM:InstanceID> <xmpMM:DocumentID>xmp.did:33CBF86288ACE511873392A37791E4C4</xmpMM:DocumentID> <xmpMM:OriginalDocumentID>xmp.did:91349E9B78ABE5119B0DB1C6331CFED0</xmpMM:OriginalDocumentID> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:31CBF86288ACE511873392A37791E4C4</stRef:instanceID> <stRef:documentID>xmp.did:91349E9B78ABE5119B0DB1C6331CFED0</stRef:documentID> <stRef:originalDocumentID>xmp.did:91349E9B78ABE5119B0DB1C6331CFED0</stRef:originalDocumentID> </xmpMM:DerivedFrom> </rdf:Description> </rdf:RDF>
       </Metadata>
       <SetBackgroundColor>
         <color>
@@ -3385,7 +3385,7 @@
       </FrameLabel>
       <PlaceObject2 replace="0" depth="1" objectID="201">
         <transform>
-          <Transform transX="1882" transY="3223"/>
+          <Transform transX="22" transY="23"/>
         </transform>
       </PlaceObject2>
       <DoABCDefine flags="1" name="">
@@ -9143,133 +9143,133 @@
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="198" morph="1">
         <transform>
-          <Transform transX="1879" transY="3225"/>
+          <Transform transX="19" transY="25"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="195" morph="2">
         <transform>
-          <Transform transX="1879" transY="3210"/>
+          <Transform transX="19" transY="10"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="192" morph="3">
         <transform>
-          <Transform transX="1879" transY="3235"/>
+          <Transform transX="19" transY="35"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="189" morph="4">
         <transform>
-          <Transform transX="1880" transY="3230"/>
+          <Transform transX="20" transY="30"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="186" morph="5">
         <transform>
-          <Transform transX="1884" transY="3230"/>
+          <Transform transX="24" transY="30"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="183" morph="6">
         <transform>
-          <Transform transX="1879" transY="3220"/>
+          <Transform transX="19" transY="20"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="180" morph="7">
         <transform>
-          <Transform transX="1884" transY="3225"/>
+          <Transform transX="24" transY="25"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="177" morph="8">
         <transform>
-          <Transform transX="1884" transY="3215"/>
+          <Transform transX="24" transY="15"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="174" morph="9">
         <transform>
-          <Transform transX="1879" transY="3235"/>
+          <Transform transX="19" transY="35"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="171" morph="10">
         <transform>
-          <Transform transX="1879" transY="3220"/>
+          <Transform transX="19" transY="20"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="168" morph="11">
         <transform>
-          <Transform transX="1879" transY="3230"/>
+          <Transform transX="19" transY="30"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="165" morph="12">
         <transform>
-          <Transform transX="1884" transY="3235"/>
+          <Transform transX="24" transY="35"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="162" morph="13">
         <transform>
-          <Transform transX="1884" transY="3235"/>
+          <Transform transX="24" transY="35"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="159" morph="14">
         <transform>
-          <Transform transX="1884" transY="3230"/>
+          <Transform transX="24" transY="30"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="156" morph="15">
         <transform>
-          <Transform transX="1884" transY="3230"/>
+          <Transform transX="24" transY="30"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="153" morph="16">
         <transform>
-          <Transform transX="1879" transY="3230"/>
+          <Transform transX="19" transY="30"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="150" morph="17">
         <transform>
-          <Transform transX="1884" transY="3230"/>
+          <Transform transX="24" transY="30"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="147" morph="18">
         <transform>
-          <Transform transX="1884" transY="3235"/>
+          <Transform transX="24" transY="35"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="144" morph="19">
         <transform>
-          <Transform transX="1884" transY="3235"/>
+          <Transform transX="24" transY="35"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
@@ -9279,7 +9279,7 @@
       </FrameLabel>
       <PlaceObject2 replace="0" depth="1" objectID="141" morph="20">
         <transform>
-          <Transform transX="1879" transY="3235"/>
+          <Transform transX="19" transY="35"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
@@ -9289,77 +9289,77 @@
       </FrameLabel>
       <PlaceObject2 replace="0" depth="1" objectID="138" morph="21">
         <transform>
-          <Transform transX="1884" transY="3230"/>
+          <Transform transX="24" transY="30"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="135" morph="22">
         <transform>
-          <Transform transX="1884" transY="3235"/>
+          <Transform transX="24" transY="35"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="132" morph="23">
         <transform>
-          <Transform transX="1879" transY="3230"/>
+          <Transform transX="19" transY="30"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="129" morph="24">
         <transform>
-          <Transform transX="1879" transY="3230"/>
+          <Transform transX="19" transY="30"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="126" morph="25">
         <transform>
-          <Transform transX="1884" transY="3230"/>
+          <Transform transX="24" transY="30"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="123" morph="26">
         <transform>
-          <Transform transX="1879" transY="3240"/>
+          <Transform transX="19" transY="40"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="120" morph="27">
         <transform>
-          <Transform transX="1879" transY="3235"/>
+          <Transform transX="19" transY="35"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="117" morph="28">
         <transform>
-          <Transform transX="1884" transY="3230"/>
+          <Transform transX="24" transY="30"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="114" morph="29">
         <transform>
-          <Transform transX="1879" transY="3235"/>
+          <Transform transX="19" transY="35"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="111" morph="30">
         <transform>
-          <Transform transX="1879" transY="3235"/>
+          <Transform transX="19" transY="35"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="108" morph="31">
         <transform>
-          <Transform transX="1888" transY="3235"/>
+          <Transform transX="28" transY="35"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
@@ -9369,7 +9369,7 @@
       </FrameLabel>
       <PlaceObject2 replace="0" depth="1" objectID="105" morph="32">
         <transform>
-          <Transform transX="1883" transY="3235"/>
+          <Transform transX="23" transY="35"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
@@ -9379,91 +9379,91 @@
       </FrameLabel>
       <PlaceObject2 replace="0" depth="1" objectID="102" morph="33">
         <transform>
-          <Transform transX="1884" transY="3235"/>
+          <Transform transX="24" transY="35"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="99" morph="34">
         <transform>
-          <Transform transX="1884" transY="3230"/>
+          <Transform transX="24" transY="30"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="96" morph="35">
         <transform>
-          <Transform transX="1885" transY="3235"/>
+          <Transform transX="25" transY="35"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="93" morph="36">
         <transform>
-          <Transform transX="1884" transY="3235"/>
+          <Transform transX="24" transY="35"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="90" morph="37">
         <transform>
-          <Transform transX="1879" transY="3235"/>
+          <Transform transX="19" transY="35"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="87" morph="38">
         <transform>
-          <Transform transX="1879" transY="3230"/>
+          <Transform transX="19" transY="30"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="84" morph="39">
         <transform>
-          <Transform transX="1884" transY="3240"/>
+          <Transform transX="24" transY="40"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="81" morph="40">
         <transform>
-          <Transform transX="1879" transY="3230"/>
+          <Transform transX="19" transY="30"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="78" morph="41">
         <transform>
-          <Transform transX="1879" transY="3230"/>
+          <Transform transX="19" transY="30"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="75" morph="42">
         <transform>
-          <Transform transX="1879" transY="3230"/>
+          <Transform transX="19" transY="30"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="72" morph="43">
         <transform>
-          <Transform transX="1884" transY="3235"/>
+          <Transform transX="24" transY="35"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="69" morph="44">
         <transform>
-          <Transform transX="1884" transY="3235"/>
+          <Transform transX="24" transY="35"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="66" morph="45">
         <transform>
-          <Transform transX="1879" transY="3230"/>
+          <Transform transX="19" transY="30"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
@@ -9473,7 +9473,7 @@
       </FrameLabel>
       <PlaceObject2 replace="0" depth="1" objectID="63" morph="46">
         <transform>
-          <Transform transX="1879" transY="3235"/>
+          <Transform transX="19" transY="35"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
@@ -9483,77 +9483,77 @@
       </FrameLabel>
       <PlaceObject2 replace="0" depth="1" objectID="60" morph="47">
         <transform>
-          <Transform transX="1884" transY="3235"/>
+          <Transform transX="24" transY="35"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="57" morph="48">
         <transform>
-          <Transform transX="1884" transY="3235"/>
+          <Transform transX="24" transY="35"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="54" morph="49">
         <transform>
-          <Transform transX="1884" transY="3230"/>
+          <Transform transX="24" transY="30"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="51" morph="50">
         <transform>
-          <Transform transX="1879" transY="3235"/>
+          <Transform transX="19" transY="35"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="48" morph="51">
         <transform>
-          <Transform transX="1884" transY="3230"/>
+          <Transform transX="24" transY="30"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="45" morph="52">
         <transform>
-          <Transform transX="1879" transY="3230"/>
+          <Transform transX="19" transY="30"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="42" morph="53">
         <transform>
-          <Transform transX="1879" transY="3230"/>
+          <Transform transX="19" transY="30"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="39" morph="54">
         <transform>
-          <Transform transX="1884" transY="3235"/>
+          <Transform transX="24" transY="35"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="36" morph="55">
         <transform>
-          <Transform transX="1884" transY="3235"/>
+          <Transform transX="24" transY="35"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="33" morph="56">
         <transform>
-          <Transform transX="1879" transY="3230"/>
+          <Transform transX="19" transY="30"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="30" morph="57">
         <transform>
-          <Transform transX="1879" transY="3235"/>
+          <Transform transX="19" transY="35"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
@@ -9563,56 +9563,56 @@
       </FrameLabel>
       <PlaceObject2 replace="0" depth="1" objectID="27" morph="58">
         <transform>
-          <Transform transX="1879" transY="3235"/>
+          <Transform transX="19" transY="35"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="24" morph="59">
         <transform>
-          <Transform transX="1884" transY="3180"/>
+          <Transform transX="24" transY="-20"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="21" morph="60">
         <transform>
-          <Transform transX="1884" transY="3230"/>
+          <Transform transX="24" transY="30"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="18" morph="61">
         <transform>
-          <Transform transX="1879" transY="3225"/>
+          <Transform transX="19" transY="25"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="15" morph="62">
         <transform>
-          <Transform transX="1879" transY="3235"/>
+          <Transform transX="19" transY="35"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="12" morph="63">
         <transform>
-          <Transform transX="1884" transY="3235"/>
+          <Transform transX="24" transY="35"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="9" morph="64">
         <transform>
-          <Transform transX="1879" transY="3230"/>
+          <Transform transX="19" transY="30"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
       <RemoveObject2 depth="1"/>
       <PlaceObject2 replace="0" depth="1" objectID="6" morph="65">
         <transform>
-          <Transform transX="1879" transY="3230"/>
+          <Transform transX="19" transY="30"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
@@ -9622,7 +9622,7 @@
       </FrameLabel>
       <PlaceObject2 replace="0" depth="1" objectID="3" morph="66">
         <transform>
-          <Transform transX="1880" transY="3230"/>
+          <Transform transX="20" transY="30"/>
         </transform>
       </PlaceObject2>
       <ShowFrame/>
