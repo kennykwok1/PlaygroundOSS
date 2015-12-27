@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KLBImageEditor_Plugin id="408d7dba-39aa-40c5-a753-e3be2e72ba7b">
+  <ProjectPropertyModel>
+    <Version>0.2.0</Version>
+    <ProjectFile>direction.png.xml</ProjectFile>
+    <ProjectFileRelativeDir />
+    <SaveDate>2015-12-27T10:34:50</SaveDate>
+    <EditState>false</EditState>
+    <VisibleImage>false</VisibleImage>
+    <VisiblePolygon>false</VisiblePolygon>
+    <VisibleMask>false</VisibleMask>
+    <VisibleBoundBox>false</VisibleBoundBox>
+    <VisibleGrid>false</VisibleGrid>
+    <VisibleProperty>false</VisibleProperty>
+  </ProjectPropertyModel>
+  <ContainerPropertyModel />
+  <ImageModel>
+    <isAdditive>false</isAdditive>
+    <ImgFileSize>28593</ImgFileSize>
+    <ImgFileDate>2015/12/27 10:32:21</ImgFileDate>
+    <ImgPathName>direction.png</ImgPathName>
+    <PriorityOffset>0</PriorityOffset>
+    <ImageType>Default</ImageType>
+    <ImageTypeParams />
+    <VerticesClockwise>true</VerticesClockwise>
+    <Center>
+      <X>0</X>
+      <Y>0</Y>
+    </Center>
+    <Width>150</Width>
+    <Height>150</Height>
+    <VertexPostProcessMode>0</VertexPostProcessMode>
+    <BoundingBox>
+      <Location>
+        <X>0</X>
+        <Y>0</Y>
+      </Location>
+      <Size>
+        <Width>150</Width>
+        <Height>150</Height>
+      </Size>
+      <X>0</X>
+      <Y>0</Y>
+      <Width>150</Width>
+      <Height>150</Height>
+    </BoundingBox>
+    <Vertices>
+      <PointF>
+        <X>0</X>
+        <Y>0</Y>
+      </PointF>
+      <PointF>
+        <X>150</X>
+        <Y>0</Y>
+      </PointF>
+      <PointF>
+        <X>150</X>
+        <Y>150</Y>
+      </PointF>
+      <PointF>
+        <X>0</X>
+        <Y>150</Y>
+      </PointF>
+    </Vertices>
+    <Indices>AAECAw==</Indices>
+    <ImgAlphaType>TYPE_ALPHA_8BIT</ImgAlphaType>
+    <MaskCompress>true</MaskCompress>
+    <MaskX>0</MaskX>
+    <MaskY>0</MaskY>
+    <MaskWidth>150</MaskWidth>
+    <MaskHeight>150</MaskHeight>
+    <Mask>V+QB</Mask>
+  </ImageModel>
+</KLBImageEditor_Plugin>

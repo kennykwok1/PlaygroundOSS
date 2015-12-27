@@ -13,7 +13,7 @@
       <resourcePath>StartScene.xml</resourcePath>
       <resourceLastModified>2015-12-27T06:58:45.414+08:00</resourceLastModified>
       <resourceFileSize>2591</resourceFileSize>
-      <extraXmlLastModified>2015-12-27T06:58:45.474+08:00</extraXmlLastModified>
+      <extraXmlLastModified>0001-01-01T00:00:00</extraXmlLastModified>
       <extraXmlFileSize>0</extraXmlFileSize>
     </Entry>
     <Entry>
@@ -1390,9 +1390,9 @@
     <Entry>
       <id>fef90990-8222-4cd2-a337-bb31006cbb97</id>
       <resourcePath>UITexture.xml</resourcePath>
-      <resourceLastModified>2015-12-27T07:03:39.761+08:00</resourceLastModified>
-      <resourceFileSize>2434</resourceFileSize>
-      <extraXmlLastModified>2015-12-27T07:03:39.832+08:00</extraXmlLastModified>
+      <resourceLastModified>2015-12-27T10:35:46.818+08:00</resourceLastModified>
+      <resourceFileSize>3091</resourceFileSize>
+      <extraXmlLastModified>2015-12-27T10:35:46.955+08:00</extraXmlLastModified>
       <extraXmlFileSize>0</extraXmlFileSize>
     </Entry>
     <Entry>
@@ -1410,6 +1410,50 @@
       <resourceFileSize>461323</resourceFileSize>
       <extraXmlLastModified>2015-12-26T21:22:15.019+08:00</extraXmlLastModified>
       <extraXmlFileSize>2047</extraXmlFileSize>
+    </Entry>
+    <Entry>
+      <resourcePath>music/chensheng_atk.mp3</resourcePath>
+      <resourceLastModified>0001-01-01T00:00:00</resourceLastModified>
+      <resourceFileSize>0</resourceFileSize>
+      <extraXmlLastModified>0001-01-01T00:00:00</extraXmlLastModified>
+      <extraXmlFileSize>0</extraXmlFileSize>
+    </Entry>
+    <Entry>
+      <resourcePath>scripts/PlayView.lua</resourcePath>
+      <resourceLastModified>0001-01-01T00:00:00</resourceLastModified>
+      <resourceFileSize>0</resourceFileSize>
+      <extraXmlLastModified>0001-01-01T00:00:00</extraXmlLastModified>
+      <extraXmlFileSize>0</extraXmlFileSize>
+    </Entry>
+    <Entry>
+      <resourcePath>music/battle_bgmap_pvp.mp3</resourcePath>
+      <resourceLastModified>0001-01-01T00:00:00</resourceLastModified>
+      <resourceFileSize>0</resourceFileSize>
+      <extraXmlLastModified>0001-01-01T00:00:00</extraXmlLastModified>
+      <extraXmlFileSize>0</extraXmlFileSize>
+    </Entry>
+    <Entry>
+      <resourcePath>scripts/startGameView.lua</resourcePath>
+      <resourceLastModified>0001-01-01T00:00:00</resourceLastModified>
+      <resourceFileSize>0</resourceFileSize>
+      <extraXmlLastModified>0001-01-01T00:00:00</extraXmlLastModified>
+      <extraXmlFileSize>0</extraXmlFileSize>
+    </Entry>
+    <Entry>
+      <id>408d7dba-39aa-40c5-a753-e3be2e72ba7b</id>
+      <resourcePath>direction.png</resourcePath>
+      <resourceLastModified>2015-12-27T10:32:21.985+08:00</resourceLastModified>
+      <resourceFileSize>28593</resourceFileSize>
+      <extraXmlLastModified>2015-12-27T10:34:50.427+08:00</extraXmlLastModified>
+      <extraXmlFileSize>2038</extraXmlFileSize>
+    </Entry>
+    <Entry>
+      <id>c85b53ff-4828-4cc4-8403-b5a864a568a5</id>
+      <resourcePath>atk.png</resourcePath>
+      <resourceLastModified>2015-12-27T10:34:24.854+08:00</resourceLastModified>
+      <resourceFileSize>33335</resourceFileSize>
+      <extraXmlLastModified>2015-12-27T10:34:50.444+08:00</extraXmlLastModified>
+      <extraXmlFileSize>2014</extraXmlFileSize>
     </Entry>
   </entries>
 </ResourceWrapperCache>

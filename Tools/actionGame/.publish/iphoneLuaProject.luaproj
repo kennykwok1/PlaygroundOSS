@@ -9,7 +9,17 @@
         <DocumentRef FileName=".\SWFPlayer.lua" />
       </Documents>
       <DocumentGroups />
-      <DocumentFolders />
+      <DocumentFolders>
+        <XmlDocumentFolder>
+          <Documents>
+            <DocumentRef FileName=".\PlayView.lua" />
+            <DocumentRef FileName=".\startGameView.lua" />
+          </Documents>
+          <DocumentGroups />
+          <DocumentFolders />
+          <RelativePath>.\scripts\</RelativePath>
+        </XmlDocumentFolder>
+      </DocumentFolders>
       <RelativePath>.\iphone\</RelativePath>
     </XmlDocumentFolder>
   </DocumentFolders>
