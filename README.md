@@ -11,7 +11,7 @@
 [游戏战斗界面截图] https://github.com/kennykwok1/PlaygroundOSS/blob/master/Engine/porting/iOS/Project/actionGame/Screenshots/GamePlayView.jpg
 
 #游戏视频
-[游戏视频链接] http://v.youku.com/v_show/id_XMTQyNzI3MzY1Ng==.html
+[游戏视频链接，无音效，实际游戏是有音效的] http://v.youku.com/v_show/id_XMTQyNzI3MzY1Ng==.html
 
 #Toboggan工程项目
 **/playgroundoss/Tools/actionGame**
