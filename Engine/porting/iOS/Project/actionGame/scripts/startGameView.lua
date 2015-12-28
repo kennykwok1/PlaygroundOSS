@@ -29,7 +29,7 @@ function leave()
 	--清除舞台
 	TASK_StageClear()
 end
-
+-- 开始游戏按钮回调方法
 function OnStartGame(sender,type)
 	if type==3 then
 		syslog("OnStartGame")
