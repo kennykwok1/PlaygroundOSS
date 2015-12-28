@@ -30,7 +30,9 @@ function leave()
 	TASK_StageClear()
 end
 
-function OnStartGame(tbl)
-	syslog("OnStartGame")
-	sysLoad("asset://scripts/PlayView.lua")
+function OnStartGame(sender,type)
+	if type==3 then
+		syslog("OnStartGame")
+		sysLoad("asset://scripts/PlayView.lua")
+	end
 end

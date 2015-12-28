@@ -9,7 +9,7 @@ function setup()
 	heroInf ={half_width =55,atkDistance= 200,runSpeedX=100,clickRunSts=false,direction=1
 	,startPlayRunSts=false}
 	-- 初始化 enemy宽，攻击距离，移动速度，工具频率，暂定每3秒攻击一次
-	enemyInf ={half_width =50,atkDistance= 10,runSpeedX=20,atkRate=3,atkTimePass=0}
+	enemyInf ={half_width =50,atkDistance= 50,runSpeedX=20,atkRate=3,atkTimePass=0}
 	animationLayer = 7001
 
 	--执行uiform task
@@ -22,6 +22,8 @@ function setup()
 	--加载首页音乐
 	gameBGMusic = SND_Open("asset://music/battle_bgmap_pvp",true)
 	SND_Play(gameBGMusic)
+
+	beAtkedMusic = SND_Open("asset://music/chensheng_atk",false)
 	--指定舞台根点为form
 	TASK_StageOnly(mainForm)
 
@@ -71,7 +73,7 @@ function setup()
 	-- 攻击发起回调
 	registSwfEvt(pEnemySWF,"@evt_npcAtk","enemyAtk_callback")
 	-- 被击僵直回调 直接使用 攻击完成回调函数
-	registSwfEvt(pEnemySWF,"hard_straight_end","enemyAtk_callback")
+	registSwfEvt(pEnemySWF,"hard_straight_end","finishAtk_callback")
 end
 -- 注册swf动画 事件
 -- 参数1 为目标动画 参数2 为动画名称，参数3为回调函数
@@ -112,6 +114,7 @@ function enemyAtk_callback(  pSWF, label )
 	local heroProp = TASK_getProperty(pHeroSWF)
 	local enemyProp = TASK_getProperty(pEnemySWF)
 	if math.abs(heroProp.x - enemyProp.y) <= enemyInf.atkDistance then
+		syslog("enemyAtk_callback----->")
 		playHeroBeAtk()
 	end
 end
@@ -211,6 +214,7 @@ function leave()
 	-- TASK_kill(gameBGMusic)
 	-- TASK_kill(pHeroSWF)
 	-- TASK_kill(pEnemySWF)
+	gameBGMusic=SND_Close(gameBGMusic)
 	--清理舞台元素
 	TASK_StageClear()
 end
@@ -234,6 +238,7 @@ end
 -- 播放被击动画
 function playHeroBeAtk()
 	heroSwfPLAY("hard_straight")
+	playBeAtkSound()
 end
 --播发hero动画
 function heroSwfPLAY(animationName)
@@ -255,9 +260,14 @@ end
 -- 播放被击动画
 function playEnemyBeAtk()
 	enemySwfPLAY("hard_straight")
+	playBeAtkSound()
 end
 --播发enemy动画
 function enemySwfPLAY(animationName)
 	sysCommand(pEnemySWF, UI_SWF_GOTOFRAME, animationName)
+end
+
+function  playBeAtkSound( )
+	SND_Play(beAtkedMusic)
 end
 
