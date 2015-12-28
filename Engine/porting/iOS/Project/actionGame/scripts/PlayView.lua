@@ -266,7 +266,7 @@ end
 function enemySwfPLAY(animationName)
 	sysCommand(pEnemySWF, UI_SWF_GOTOFRAME, animationName)
 end
-
+-- 播放被击音效
 function  playBeAtkSound( )
 	SND_Play(beAtkedMusic)
 end
