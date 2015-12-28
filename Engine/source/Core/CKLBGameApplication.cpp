@@ -122,7 +122,7 @@ CKLBGameApplication::setFilePath(const char * strPath)
 	len = strlen(ptr) + sizeof("file://install/");
 	char * buf = KLBNEWA(char, len + 1);
 	sprintf(buf, "file://install/%s", ptr);
-	m_bootFile = (const char *)buf;
+    m_bootFile = (const char *)buf;
     return true;
 }
 

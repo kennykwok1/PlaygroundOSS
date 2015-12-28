@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F641A665-56A4-4668-9EDB-870B9E6444FA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>actionGame</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B76C58EB2E12AF2BEADE0D8FAC19ABCDF27DFFA7</key>
+		<string>https://github.com/kennykwok1/PlaygroundOSS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Engine/porting/iOS/Project/actionGame/actionGame.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B76C58EB2E12AF2BEADE0D8FAC19ABCDF27DFFA7</key>
+		<string>../../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kennykwok1/PlaygroundOSS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B76C58EB2E12AF2BEADE0D8FAC19ABCDF27DFFA7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B76C58EB2E12AF2BEADE0D8FAC19ABCDF27DFFA7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PlaygroundOSS</string>
+		</dict>
+	</array>
+</dict>
+</plist>

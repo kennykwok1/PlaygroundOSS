@@ -1,0 +1,27 @@
+{
+	"name":"root",
+	"x":0,
+	"y":0,
+	"priority":0,
+	"default":"startGame.png.imag",
+	"sub":[{
+		"name":"startGameBtn",
+		"x":150,
+		"y":220,
+		"priority":1,
+		"sx":0,
+		"sy":0,
+		"sw":179,
+		"sh":76,
+		"class":"button",
+		"onclick":"OnStartGame",
+		"default":"startGameBtn.png.imag",
+		"select":"startGameBtn.png.imag",
+		"disable":"startGameBtn.png.imag",
+		"xscale":1,
+		"yscale":1,
+		"rotation":0
+	}],
+	"width":480,
+	"height":320
+}
