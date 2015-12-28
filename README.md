@@ -4,6 +4,9 @@
 #游戏项目路径
 **/PlaygroundOSS/Engine/porting/iOS/Project/actionGame**
 
+#游戏截图
+**/PlaygroundOSS/Engine/porting/iOS/Project/actionGame/游戏截图/
+
 #Toboggan工程项目
 **/playgroundoss/Tools/actionGame**
 
@@ -16,6 +19,8 @@
 * /scripts/utils/BattleState.lua     --------lua的有限状态机实现
 * /assets    --------资源目录
 * /music     --------音乐和音效目录
+
+
 
 #游戏编译和启动
 1. 在mac环境下，使用xcode打开项目工程下的actionGame.xcodeproj
