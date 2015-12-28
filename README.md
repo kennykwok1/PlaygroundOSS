@@ -5,9 +5,9 @@
 **/PlaygroundOSS/Engine/porting/iOS/Project/actionGame**
 
 #游戏截图
-[开始游戏截图] （https://github.com/kennykwok1/PlaygroundOSS/blob/master/Engine/porting/iOS/Project/actionGame/%E6%B8%B8%E6%88%8F%E6%88%AA%E5%9B%BE/%E5%BC%80%E5%A7%8B%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE.jpg）
+[开始游戏截图] （https://github.com/kennykwok1/PlaygroundOSS/blob/master/Engine/porting/iOS/Project/actionGame/Screenshots/StartGameView.jpg）
 
-[游戏战斗界面截图] （https://github.com/kennykwok1/PlaygroundOSS/blob/master/Engine/porting/iOS/Project/actionGame/%E6%B8%B8%E6%88%8F%E6%88%AA%E5%9B%BE/%E6%88%98%E6%96%97%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE.jpg）
+[游戏战斗界面截图] （https://github.com/kennykwok1/PlaygroundOSS/blob/master/Engine/porting/iOS/Project/actionGame/Screenshots/GamePlayView.jpg）
 
 #Toboggan工程项目
 **/playgroundoss/Tools/actionGame**
