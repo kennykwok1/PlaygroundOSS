@@ -38,6 +38,6 @@
 	解决办法：在包含目录 和 引用目录 分别加入 $(WindowsSDK_IncludePath);和 $(WindowsSDK_LibraryPath_x86);
 	2.使用Toboggan编辑器时遇到问题
 	  1）编辑器对 net framework 要求 4.5以上，以及图片必须是png格式的。
-	  2）图片资源需要放在根目录下（因为swf原因），并且创建texture，并且把碎图打包进去，才能成功publish资源。  
+	  2）图片资源需要放在根目录下（因为swf原因），并且创建texture同时把碎图打包进去，才能成功publish资源。  
 	  3）对swf 资源有一些规则要就比如 fla文件需要命名为*.flash.fla,fla 文件库中的元件需要导出为 *.png.imag，同时需要同名的*.png文件打包在texture中
 	  以上三点任何一点不满足要就都不能成功publish。
