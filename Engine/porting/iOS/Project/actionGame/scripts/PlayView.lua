@@ -104,7 +104,7 @@ function heroAtk_callback(  pSWF, label )
 	-- body
 	local heroProp = TASK_getProperty(pHeroSWF)
 	local enemyProp = TASK_getProperty(pEnemySWF)
-	if math.abs(heroProp.x - enemyProp.y) <= heroInf.atkDistance then
+	if math.abs(heroProp.x - enemyProp.x) <= heroInf.atkDistance then
 		playEnemyBeAtk()
 	end
 end
@@ -113,7 +113,7 @@ end
 function enemyAtk_callback(  pSWF, label )
 	local heroProp = TASK_getProperty(pHeroSWF)
 	local enemyProp = TASK_getProperty(pEnemySWF)
-	if math.abs(heroProp.x - enemyProp.y) <= enemyInf.atkDistance then
+	if math.abs(heroProp.x - enemyProp.x) <= enemyInf.atkDistance then
 		syslog("enemyAtk_callback----->")
 		playHeroBeAtk()
 	end
