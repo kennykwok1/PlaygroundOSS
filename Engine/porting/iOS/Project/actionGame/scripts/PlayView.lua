@@ -156,7 +156,7 @@ function execute(deltaT)
 	enemyInf.atkTimePass = enemyInf.atkTimePass + deltaT * 0.001
 	-- enemy 攻击判断,判断是否在攻击范围内
 	-- 并且每3秒攻击一次
-	if math.abs(heroProp.x - enemyProp.y) <= enemyInf.atkDistance 
+	if math.abs(heroProp.x - enemyProp.x) <= enemyInf.atkDistance 
 		and enemyInf.atkTimePass >= enemyInf.atkRate then
 		enemyInf.atkTimePass = 0
 		playEnemyAtk()
